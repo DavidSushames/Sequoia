@@ -1,0 +1,3 @@
+Raven God:
+You go to some random town, and there's the Raven god. He runs a postal service, but it isn't at all reliable. The letters that get *do* through form an inverse bell curve of importance. The really unimportant letters tend to get through, and so do the super crucial ones, but the medium-regular important ones will 99% get lost by the ravens.
+Despite this hang-up, he is *the* fastest way to get messages from one continent to another.

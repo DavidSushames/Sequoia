@@ -1,0 +1,390 @@
+{
+  "main": {
+    "id": "7044532a737dd35f",
+    "type": "split",
+    "children": [
+      {
+        "id": "345915a7ca9a6989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa035fbb1802d3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Annular Positioning System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annular Positioning System"
+            }
+          },
+          {
+            "id": "78c9cfb678db8e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Monstrum/Star-Serpents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Star-Serpents"
+            }
+          },
+          {
+            "id": "7e55531d0be3c3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Void.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Void"
+            }
+          },
+          {
+            "id": "80b1874616641cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Names"
+            }
+          },
+          {
+            "id": "b54e456ca5b8d6a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9ce4aa240a5cb818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Witches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Witches"
+            }
+          },
+          {
+            "id": "56a567f0b32bf345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Industrialists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Industrialists"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6b5ce918bd5c4fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0cd264c32534d10",
+        "type": "tabs",
+        "dimension": 71.71514543630893,
+        "children": [
+          {
+            "id": "5a1e5c373ef9e2f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5702b0d776908487",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8863ba861ed0e1bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e129fa97c0f4d998",
+        "type": "tabs",
+        "dimension": 28.284854563691077,
+        "children": [
+          {
+            "id": "cf460e9364c47c26",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Witches.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:Creatures  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 51320
+                      }
+                    },
+                    {
+                      "query": "path:Meta  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16762980
+                      }
+                    },
+                    {
+                      "query": "path:People  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13132900
+                      }
+                    },
+                    {
+                      "query": "path:\"Gods and Religion\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 25855
+                      }
+                    },
+                    {
+                      "query": "path:Items  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13133000
+                      }
+                    },
+                    {
+                      "query": "path:Locations  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1336320
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 100,
+                  "scale": 0.36288736930121374,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Witches"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "70a66eeb49533b49",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a1ae701d7968ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "507e361efe6257d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Meta/Sorting System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sorting System"
+            }
+          },
+          {
+            "id": "a658d9be9fb5348e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Meta/Sorting System.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sorting System"
+            }
+          },
+          {
+            "id": "182b52e53304c5f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2853f6afd4ec3e14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Meta/Sorting System.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sorting System"
+            }
+          },
+          {
+            "id": "abc6f49df51d03f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9ce4aa240a5cb818",
+  "lastOpenFiles": [
+    "Witches.md",
+    "Void.md",
+    "Magocracy.md",
+    "desktop.ini",
+    "Church Space Program.md",
+    "zzAttachments/Pasted image 20250523220041.png",
+    "zzAttachments/Pasted image 20250430134230.png",
+    "zzAttachments/desktop.ini",
+    "zzAttachments",
+    "People/Factions/desktop.ini",
+    "People/Factions/Wildkin.md",
+    "People/Factions/Red Law.md",
+    "People/Factions/-Factions.md",
+    "People/Factions/Driftfleet.md",
+    "People/Factions/Silverbrand Company.md",
+    "People/Factions/The Flock.md",
+    "People/Factions/Unbroken Earth Sect.md",
+    "People/Factions/Brotherhood of the Hermetic Machine.md",
+    "People/Factions",
+    "People/Cultures/Mangrove Divers.md",
+    "People/Cultures/desktop.ini",
+    "People/Cultures/Ashscales.md",
+    "People/Cultures",
+    "People/desktop.ini",
+    "People/Saint Rhea the Martyr.md",
+    "People/People.md",
+    "People",
+    "Meta/desktop.ini",
+    "Meta/Iconography and Alignment.md",
+    "Meta/Meta Linking File.md",
+    "Meta/Ecosystem generator.md",
+    "Meta/Note Sorting System.md",
+    "Meta/-Slush Pile.md",
+    "Meta/Names.md",
+    "Meta/Useful links for game stuff.md",
+    "Meta/Power structures.md",
+    "Lore/Technology/Electropunk.md",
+    "Lore/Magic/Reality.md",
+    "Pasted image 20250430134221.png",
+    "Pasted image 20250430134159.png"
+  ]
+}

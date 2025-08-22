@@ -1,0 +1,3 @@
+This city is built on a slope. There is a river that flows past it, in which several water wheels power an enormous Archimedes screw, which carries water to the top of the city. The water then flows downhill, powering many water wheels, mills, presses, and drop hammers. It then accumulates in a lake which waters the floating gardens (chinampas). Finally, it falls into the [[Devil's Hole]], a big quarry where the city's rocks and ores are dug from. The waterfall causes a thick mist everywhere, lowering visibility. Also there might be something living down there.
+
+Is like the torque system from that cool medieval mc mod.

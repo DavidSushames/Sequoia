@@ -1,0 +1,1 @@
+[[Demons]], [[Fae]], and [[Blight Angels]] live down here. It's fucked up down here due to direct exposure to the [[Void]]. Also the gravity doesn't help.
