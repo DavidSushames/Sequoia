@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Witches.md",
+                "file": "Void Witches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Witches"
+              "title": "Void Witches"
             }
           },
           {
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Witches.md",
+                "file": "Void Witches.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +240,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Witches"
+              "title": "Graph of Void Witches"
             }
           }
         ]
@@ -346,7 +346,7 @@
   },
   "active": "9ce4aa240a5cb818",
   "lastOpenFiles": [
-    "Witches.md",
+    "Void Witches.md",
     "Void.md",
     "Magocracy.md",
     "desktop.ini",
