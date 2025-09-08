@@ -114,6 +114,11 @@ Cyrogol
 Galinulus
 Resos
 Deving/Teving
+Jtor
+Sunlai
+Depand
+Sarmiento
+Petacca
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 
