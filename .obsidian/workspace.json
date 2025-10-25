@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Names.md",
+                "file": "Gods and Religion/Eastern Pantheon/Thousand Needles In The Wind.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,11 +94,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Names"
+              "title": "Thousand Needles In The Wind"
+            }
+          },
+          {
+            "id": "8cdc33e1ccd9e0fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "0dd50211e1ecd139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z-Meta/-Slush Pile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "-Slush Pile"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -131,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cult",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meta/Names.md",
+                "file": "z-Meta/-Slush Pile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Names"
+              "title": "Graph of -Slush Pile"
             }
           }
         ]
@@ -350,12 +384,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -364,9 +398,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9ce4aa240a5cb818",
+  "active": "5a1e5c373ef9e2f6",
   "lastOpenFiles": [
-    "Meta/Iconography and Alignment.md",
+    "z-Meta/Names.md",
+    "Items/Materials/Rockwool.md",
+    "z-Meta/Meta Linking File.md",
+    "People/Cultures/Chusuqama.md",
+    "Gods and Religion/Eastern Pantheon/Thousand Needles In The Wind.md",
+    "People/Cultures/Ashscales.md",
+    "z-Meta/Iconography and Alignment.md",
     "Gods and Religion/Angels.md",
     "Templates/TitleTemplate.md",
     "Templates/TraditionTemplate.md",
@@ -387,12 +427,6 @@
     "Templates/ReligionTemplate.md",
     "Templates/ProfessionTemplate.md",
     "Templates/OrganisationTemplate.md",
-    "Templates/NaturalLawTemplate.md",
-    "Templates/MythLegendTemplate.md",
-    "Templates/MilitaryTemplate.md",
-    "Templates/MaterialTemplate.md",
-    "Templates/LanguageTemplate.md",
-    "Templates/ItemTemplate.md",
     "Templates",
     "desktop.ini",
     "zzAttachments/Pasted image 20250523220041.png",

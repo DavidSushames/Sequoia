@@ -114,6 +114,13 @@ Cyrogol
 Galinulus
 Resos
 Deving/Teving
+Jtor
+Sunlai
+Depand
+Sarmiento
+Petacca
+Apoth
+Shum, Agtos, Edbert, Josiane, Olaugh, Rosaline, Pearson, Boyle, Typhon, Satyros, Ronald, Brice, Wilford, Circe, Surbag, Kayla, Latona, Cecily, Shuzug, Moth, Dolly, Minerva, Prutha, Esmour, Tristan, Lake, Stewart, Hebub, Lanos, Ingram, Orvist, Daud, Metope
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 
