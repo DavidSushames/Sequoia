@@ -106,33 +106,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "0dd50211e1ecd139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z-Meta/Names.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Names"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "z-Meta/Names.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Names"
+              "title": "Graph view"
             }
           }
         ]
@@ -398,41 +373,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0dd50211e1ecd139",
+  "active": "8cdc33e1ccd9e0fd",
   "lastOpenFiles": [
-    "z-Meta/-Slush Pile.md",
-    "z-Meta/Names.md",
-    "Items/Materials/Rockwool.md",
-    "z-Meta/Meta Linking File.md",
-    "People/Cultures/Chusuqama.md",
-    "Gods and Religion/Eastern Pantheon/Thousand Needles In The Wind.md",
-    "People/Cultures/Ashscales.md",
-    "z-Meta/Iconography and Alignment.md",
-    "Gods and Religion/Angels.md",
-    "Templates/TitleTemplate.md",
-    "Templates/TraditionTemplate.md",
-    "Templates/TechnologyTemplate.md",
-    "Templates/SpeciesTemplate.md",
-    "Templates/SpellTemplate.md",
-    "Untitled.base",
-    "People/Factions/Unbroken Earth Sect.md",
-    "Templates/DeityTemplate.md",
-    "Templates/CountryTemplate.md",
-    "Templates/ConflictTemplate.md",
-    "Templates/ConditionTemplate.md",
-    "Templates/CharacterTemplate.md",
-    "Templates/BuildingTemplate.md",
-    "Industrialists.md",
-    "Templates/VehicleTemplate.md",
-    "Templates/SettlementTemplate.md",
-    "Templates/ReligionTemplate.md",
-    "Templates/ProfessionTemplate.md",
-    "Templates",
     "zzAttachments/Pasted image 20250523220041.png",
     "zzAttachments/Pasted image 20250430134230.png",
     "zzAttachments",
-    "People/Factions",
+    "People/Factions/Wildkin.md",
+    "People/Factions/Unbroken Earth Sect.md",
+    "People/Factions/The Flock.md",
+    "People/Factions/Silverbrand Company.md",
+    "People/Factions/Brotherhood of the Hermetic Machine.md",
+    "People/Factions/Red Law.md",
+    "People/Factions/Driftfleet.md",
+    "People/Factions/-Factions.md",
+    "People/Cultures/Chusuqama.md",
+    "People/Cultures/Mangrove Divers.md",
+    "People/Cultures/Ashscales.md",
+    "People/Saint Rhea the Martyr.md",
+    "People/People.md",
     "People/Cultures",
+    "People/Factions",
+    "People",
+    "Meta/Names.md",
+    "Meta/Useful links for game stuff.md",
+    "Meta/Note Sorting System.md",
+    "Meta/Power structures.md",
+    "Meta/Meta Linking File.md",
+    "Meta/-Slush Pile.md",
+    "Meta/Ecosystem generator.md",
+    "Meta/Iconography and Alignment.md",
+    "Meta",
+    "Lore/Technology/Electropunk.md",
+    "Lore/Technology",
+    "Lore/Magic/Immortals.md",
+    "Lore/Magic/Reality.md",
+    "Lore/Magic",
+    "Lore/Languages",
+    "Lore/History/Origin Story.md",
+    "Lore/History",
+    "Locations/Structures",
     "Pasted image 20250430134221.png",
     "Pasted image 20250430134159.png"
   ]
