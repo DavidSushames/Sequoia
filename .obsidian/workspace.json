@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z-Meta/-Slush Pile.md",
+                "file": "z-Meta/Names.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "-Slush Pile"
+              "title": "Names"
             }
           }
         ],
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "z-Meta/-Slush Pile.md",
+                "file": "z-Meta/Names.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of -Slush Pile"
+              "title": "Graph of Names"
             }
           }
         ]
@@ -361,8 +361,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -371,8 +371,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           }
         ],
@@ -385,9 +385,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -395,11 +392,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5a1e5c373ef9e2f6",
+  "active": "0dd50211e1ecd139",
   "lastOpenFiles": [
+    "z-Meta/-Slush Pile.md",
     "z-Meta/Names.md",
     "Items/Materials/Rockwool.md",
     "z-Meta/Meta Linking File.md",
@@ -426,7 +427,6 @@
     "Templates/SettlementTemplate.md",
     "Templates/ReligionTemplate.md",
     "Templates/ProfessionTemplate.md",
-    "Templates/OrganisationTemplate.md",
     "Templates",
     "zzAttachments/Pasted image 20250523220041.png",
     "zzAttachments/Pasted image 20250430134230.png",
