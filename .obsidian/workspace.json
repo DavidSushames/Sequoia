@@ -101,10 +101,24 @@
             "id": "8cdc33e1ccd9e0fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "z-Meta/Names.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Names"
             }
           }
         ],
@@ -175,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "z-Meta/Names.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Names"
             }
           }
         ]
@@ -368,9 +383,9 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "8cdc33e1ccd9e0fd",
