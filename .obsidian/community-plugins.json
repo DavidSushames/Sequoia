@@ -1,3 +1,10 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "table-editor-obsidian",
+  "calendarium",
+  "dataview",
+  "fantasy-content-generator",
+  "templater-obsidian",
+  "emoji-shortcodes"
 ]

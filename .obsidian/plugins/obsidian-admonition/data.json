@@ -1,0 +1,336 @@
+{
+  "userAdmonitions": {
+    "building-info": {
+      "type": "building-info",
+      "color": "57, 109, 213",
+      "icon": {
+        "name": "simplybuilt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Building Info",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "character-info": {
+      "type": "character-info",
+      "color": "79, 15, 97",
+      "icon": {
+        "name": "lucide-person-standing",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": null,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "condition-info": {
+      "type": "condition-info",
+      "color": "10, 161, 8",
+      "icon": {
+        "name": "biohazard",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Conflict-info": {
+      "type": "Conflict-info",
+      "color": "100, 18, 18",
+      "icon": {
+        "name": "lucide-swords",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Country-info": {
+      "type": "Country-info",
+      "color": "84, 176, 95",
+      "icon": {
+        "name": "lucide-map-pinned",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Deity-info": {
+      "type": "Deity-info",
+      "color": "71, 78, 255",
+      "icon": {
+        "name": "ankh",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Document-info": {
+      "type": "Document-info",
+      "color": "247, 247, 247",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Ethnicity-info": {
+      "type": "Ethnicity-info",
+      "color": "221, 90, 90",
+      "icon": {
+        "name": "baby-carriage",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Event-info": {
+      "type": "Event-info",
+      "color": "206, 126, 34",
+      "icon": {
+        "name": "bolt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Generic-info": {
+      "type": "Generic-info",
+      "color": "37, 105, 40",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Geography-info": {
+      "type": "Geography-info",
+      "color": "120, 172, 21",
+      "icon": {
+        "name": "lucide-globe-2",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Item-info": {
+      "type": "Item-info",
+      "color": "138, 0, 0",
+      "icon": {
+        "name": "blender",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Language-info": {
+      "type": "Language-info",
+      "color": "54, 191, 157",
+      "icon": {
+        "name": "spell-check",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Material-info": {
+      "type": "Material-info",
+      "color": "177, 140, 175",
+      "icon": {
+        "name": "rockrms",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Military-info": {
+      "type": "Military-info",
+      "color": "255, 26, 26",
+      "icon": {
+        "name": "lucide-sword",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Legend-info": {
+      "type": "Legend-info",
+      "color": "0, 123, 255",
+      "icon": {
+        "name": "dragon",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Natural-Law-info": {
+      "type": "Natural-Law-info",
+      "color": "255, 247, 0",
+      "icon": {
+        "name": "atom",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "Organisation-info": {
+      "type": "Organisation-info",
+      "color": "147, 215, 167",
+      "icon": {
+        "name": "lucide-building-2",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Profession-info": {
+      "type": "Profession-info",
+      "color": "225, 206, 237",
+      "icon": {
+        "name": "gear-hammer",
+        "type": "rpg"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "Religion-info": {
+      "type": "Religion-info",
+      "color": "246, 247, 187",
+      "icon": {
+        "name": "church",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Settlement-info": {
+      "type": "Settlement-info",
+      "color": "125, 63, 63",
+      "icon": {
+        "name": "lucide-map-pinned",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Species-info": {
+      "type": "Species-info",
+      "color": "64, 114, 95",
+      "icon": {
+        "name": "footprint",
+        "type": "rpg"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Spell-info": {
+      "type": "Spell-info",
+      "color": "99, 0, 153",
+      "icon": {
+        "name": "lucide-wand-2",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Technology-info": {
+      "type": "Technology-info",
+      "color": "47, 45, 154",
+      "icon": {
+        "name": "gear",
+        "type": "octicons"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Title-info": {
+      "type": "Title-info",
+      "color": "176, 167, 135",
+      "icon": {
+        "name": "crown",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Tradition-info": {
+      "type": "Tradition-info",
+      "color": "184, 130, 191",
+      "icon": {
+        "name": "birthday-cake",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "Vehicle-info": {
+      "type": "Vehicle-info",
+      "color": "69, 75, 242",
+      "icon": {
+        "name": "lucide-sailboat",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": false,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.023a52"
+}
