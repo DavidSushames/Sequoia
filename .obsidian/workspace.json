@@ -101,19 +101,9 @@
             "id": "8cdc33e1ccd9e0fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "0dd50211e1ecd139",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "z-Meta/-Slush Pile.md",
+                "file": "z-Meta/Names.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -128,11 +118,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "-Slush Pile"
+              "title": "Names"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "z-Meta/-Slush Pile.md",
+                "file": "z-Meta/Names.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of -Slush Pile"
+              "title": "Graph of Names"
             }
           }
         ]
@@ -361,8 +351,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -371,8 +361,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           }
         ],
@@ -385,9 +375,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -395,49 +382,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "templater-obsidian:Templater": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5a1e5c373ef9e2f6",
+  "active": "8cdc33e1ccd9e0fd",
   "lastOpenFiles": [
-    "z-Meta/Names.md",
-    "Items/Materials/Rockwool.md",
-    "z-Meta/Meta Linking File.md",
-    "People/Cultures/Chusuqama.md",
-    "Gods and Religion/Eastern Pantheon/Thousand Needles In The Wind.md",
-    "People/Cultures/Ashscales.md",
-    "z-Meta/Iconography and Alignment.md",
-    "Gods and Religion/Angels.md",
-    "Templates/TitleTemplate.md",
-    "Templates/TraditionTemplate.md",
-    "Templates/TechnologyTemplate.md",
-    "Templates/SpeciesTemplate.md",
-    "Templates/SpellTemplate.md",
-    "Untitled.base",
-    "People/Factions/Unbroken Earth Sect.md",
-    "Templates/DeityTemplate.md",
-    "Templates/CountryTemplate.md",
-    "Templates/ConflictTemplate.md",
-    "Templates/ConditionTemplate.md",
-    "Templates/CharacterTemplate.md",
-    "Templates/BuildingTemplate.md",
-    "Industrialists.md",
-    "Templates/VehicleTemplate.md",
-    "Templates/SettlementTemplate.md",
-    "Templates/ReligionTemplate.md",
-    "Templates/ProfessionTemplate.md",
-    "Templates/OrganisationTemplate.md",
-    "Templates",
-    "desktop.ini",
     "zzAttachments/Pasted image 20250523220041.png",
     "zzAttachments/Pasted image 20250430134230.png",
-    "zzAttachments/desktop.ini",
     "zzAttachments",
-    "People/Factions/desktop.ini",
-    "People/Factions",
-    "People/Cultures/desktop.ini",
+    "People/Factions/Wildkin.md",
+    "People/Factions/Unbroken Earth Sect.md",
+    "People/Factions/The Flock.md",
+    "People/Factions/Silverbrand Company.md",
+    "People/Factions/Brotherhood of the Hermetic Machine.md",
+    "People/Factions/Red Law.md",
+    "People/Factions/Driftfleet.md",
+    "People/Factions/-Factions.md",
+    "People/Cultures/Chusuqama.md",
+    "People/Cultures/Mangrove Divers.md",
+    "People/Cultures/Ashscales.md",
+    "People/Saint Rhea the Martyr.md",
+    "People/People.md",
     "People/Cultures",
-    "People/desktop.ini",
+    "People/Factions",
+    "People",
+    "Meta/Names.md",
+    "Meta/Useful links for game stuff.md",
+    "Meta/Note Sorting System.md",
+    "Meta/Power structures.md",
+    "Meta/Meta Linking File.md",
+    "Meta/-Slush Pile.md",
+    "Meta/Ecosystem generator.md",
+    "Meta/Iconography and Alignment.md",
+    "Meta",
+    "Lore/Technology/Electropunk.md",
+    "Lore/Technology",
+    "Lore/Magic/Immortals.md",
+    "Lore/Magic/Reality.md",
+    "Lore/Magic",
+    "Lore/Languages",
+    "Lore/History/Origin Story.md",
+    "Lore/History",
+    "Locations/Structures",
     "Pasted image 20250430134221.png",
     "Pasted image 20250430134159.png"
   ]
