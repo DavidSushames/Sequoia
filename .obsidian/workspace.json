@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z-Meta/Names.md",
+                "file": "Lore/Calendar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Names"
+              "title": "Calendar"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cult",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "z-Meta/Names.md",
+                "file": "Lore/Calendar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Names"
+              "title": "Graph of Calendar"
             }
           }
         ]
@@ -388,8 +388,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8cdc33e1ccd9e0fd",
+  "active": "5a1e5c373ef9e2f6",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Lore/Calendar.md",
+    "Lore/History/Chained god prompt.md",
+    "Gods and Religion/Western Pantheon/Western Pantheon.md",
+    "z-Meta/Names.md",
+    "Templates/DeityTemplate.md",
+    "Templates/CountryTemplate.md",
+    "Templates/ConflictTemplate.md",
+    "Templates/ConditionTemplate.md",
+    "Templates/CharacterTemplate.md",
+    "Templates/BuildingTemplate.md",
     "zzAttachments/Pasted image 20250523220041.png",
     "zzAttachments/Pasted image 20250430134230.png",
     "zzAttachments",
@@ -411,22 +422,11 @@
     "People",
     "Meta/Names.md",
     "Meta/Useful links for game stuff.md",
-    "Meta/Note Sorting System.md",
-    "Meta/Power structures.md",
-    "Meta/Meta Linking File.md",
-    "Meta/-Slush Pile.md",
-    "Meta/Ecosystem generator.md",
-    "Meta/Iconography and Alignment.md",
     "Meta",
-    "Lore/Technology/Electropunk.md",
     "Lore/Technology",
-    "Lore/Magic/Immortals.md",
-    "Lore/Magic/Reality.md",
     "Lore/Magic",
     "Lore/Languages",
-    "Lore/History/Origin Story.md",
     "Lore/History",
-    "Locations/Structures",
     "Pasted image 20250430134221.png",
     "Pasted image 20250430134159.png"
   ]
