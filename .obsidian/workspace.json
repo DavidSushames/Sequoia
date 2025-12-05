@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods and Religion/Eastern Pantheon/Thousand Needles In The Wind.md",
+                "file": "Church of Sun Everadiant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,16 +94,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thousand Needles In The Wind"
+              "title": "Church of Sun Everadiant"
             }
           },
           {
-            "id": "8cdc33e1ccd9e0fd",
+            "id": "3e4428ee83f77236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Calendar.md",
+                "file": "Church of Sun Everadiant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +118,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calendar"
+              "title": "Church of Sun Everadiant"
+            }
+          },
+          {
+            "id": "1566d9fe7cffe356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Factions/Brotherhood of the Hermetic Machine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Brotherhood of the Hermetic Machine"
             }
           }
         ],
@@ -189,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lore/Calendar.md",
+                "file": "Church of Sun Everadiant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Calendar"
+              "title": "Graph of Church of Sun Everadiant"
             }
           }
         ]
@@ -383,18 +407,27 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5a1e5c373ef9e2f6",
+  "active": "3e4428ee83f77236",
   "lastOpenFiles": [
+    "Church Space Program.md",
+    "Gods and Religion/Clergy Hierarchy.md",
+    "Church of Sun Everadiant.md",
+    "Saints.md",
+    "People/Factions/Wildkin.md",
+    "Orcs.md",
+    "People/Factions/-Factions.md",
+    "People/Factions/Brotherhood of the Hermetic Machine.md",
     "Untitled.base",
     "Lore/Calendar.md",
+    "z-Meta/Names.md",
+    "Gods and Religion/Eastern Pantheon/Thousand Needles In The Wind.md",
     "Lore/History/Chained god prompt.md",
     "Gods and Religion/Western Pantheon/Western Pantheon.md",
-    "z-Meta/Names.md",
     "Templates/DeityTemplate.md",
     "Templates/CountryTemplate.md",
     "Templates/ConflictTemplate.md",
@@ -404,24 +437,16 @@
     "zzAttachments/Pasted image 20250523220041.png",
     "zzAttachments/Pasted image 20250430134230.png",
     "zzAttachments",
-    "People/Factions/Wildkin.md",
     "People/Factions/Unbroken Earth Sect.md",
     "People/Factions/The Flock.md",
     "People/Factions/Silverbrand Company.md",
-    "People/Factions/Brotherhood of the Hermetic Machine.md",
     "People/Factions/Red Law.md",
     "People/Factions/Driftfleet.md",
-    "People/Factions/-Factions.md",
     "People/Cultures/Chusuqama.md",
     "People/Cultures/Mangrove Divers.md",
-    "People/Cultures/Ashscales.md",
-    "People/Saint Rhea the Martyr.md",
-    "People/People.md",
     "People/Cultures",
     "People/Factions",
     "People",
-    "Meta/Names.md",
-    "Meta/Useful links for game stuff.md",
     "Meta",
     "Lore/Technology",
     "Lore/Magic",

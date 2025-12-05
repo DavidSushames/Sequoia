@@ -114,6 +114,7 @@ Cyrogol
 Galinulus
 Resos
 Deving/Teving
+Ruan Geyser
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 

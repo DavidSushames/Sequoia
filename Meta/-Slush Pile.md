@@ -42,12 +42,6 @@ Don't lie to fey. Or at least don't get caught in a lie. If you tell an obvious 
 
 Siege Crab.
 
-Setting is way older than previously thought.
-Gods are more powerful too. A god will affect the area it is in. 
-War gods makes everything aggressive.
-Fertility gods make everything fuck
-Gravity god makes weird gravity shit everywhere. Weird pockets of sideways and upside down gravity. People build around/through these, so you get upside down staircases
-
 New biomes:  
 Celenia - Atomic bees place
 Dundriago - Outside Yog
