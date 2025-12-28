@@ -4,7 +4,7 @@ The Chusuqama are known to outsiders but only in basic terms. Despite their lack
 
 Chusuqama have evolved to live in the canopy of the jungle where the trees reach hundreds of meters in height. They’re generally humanoid but with four arms, each with three fingers and a thumb. Rather than hair they are covered in mottled green feathers with dark streaks, optimal for camouflage.
 
-The Chusuqama live in deference to the cycle of life and death, as personified in the [[Southern Pantheon]]. They live in small tribes or clans close to the canopy where light and life is, and rarely travel to the ground where darkness and death lurk. 
+The Chusuqama live in deference to the cycle of life and death, as personified in the [[The Cycle (Southern Pantheon)]]. They live in small tribes or clans close to the canopy where light and life is, and rarely travel to the ground where darkness and death lurk. 
 
 The unique fungus that grows on the jungle floor is incredibly important in Chusuqama culture. By its very nature it bridges the entire cycle of death and life. Consuming it allows the mind to tap into the cycle and commune with the gods. Unfortunately it’s almost always fatal, so the Chusuqama cultivate a weakened form that can grant insight and pilot the body without killing it. This is primarily used by shamans for fortune telling, but occasionally by others for specific rituals. Most notably the coming of age ceremony where a young one consumes the fungus and goes on a vision quest to the sacred mountain in the deepest part of the jungle. 
 

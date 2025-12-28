@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Church of Sun Everadiant.md",
+                "file": "z-Meta/-Slush Pile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Church of Sun Everadiant"
+              "title": "-Slush Pile"
             }
           },
           {
@@ -127,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Factions/Brotherhood of the Hermetic Machine.md",
+                "file": "Gods and Religion/Northern Pantheon/Triptych (Northern Pantheon).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -142,7 +142,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Brotherhood of the Hermetic Machine"
+              "title": "Triptych (Northern Pantheon)"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Church of Sun Everadiant.md",
+                "file": "z-Meta/-Slush Pile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Church of Sun Everadiant"
+              "title": "Graph of -Slush Pile"
             }
           }
         ]
@@ -407,24 +407,30 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e4428ee83f77236",
+  "active": "5a1e5c373ef9e2f6",
   "lastOpenFiles": [
+    "Meta/-Slush Pile.md",
+    "z-Meta/-Slush Pile.md",
+    "z-Meta/Note Sorting System.md",
+    "Orcs.md",
+    "Gods and Religion/Northern Pantheon/Triptych (Northern Pantheon).md",
+    "Locations/Geography/Bajookieland.md",
+    "The Struggle.md",
+    "z-Meta/Names.md",
+    "People/Factions/Brotherhood of the Hermetic Machine.md",
+    "Church of Sun Everadiant.md",
     "Church Space Program.md",
     "Gods and Religion/Clergy Hierarchy.md",
-    "Church of Sun Everadiant.md",
     "Saints.md",
     "People/Factions/Wildkin.md",
-    "Orcs.md",
     "People/Factions/-Factions.md",
-    "People/Factions/Brotherhood of the Hermetic Machine.md",
     "Untitled.base",
     "Lore/Calendar.md",
-    "z-Meta/Names.md",
     "Gods and Religion/Eastern Pantheon/Thousand Needles In The Wind.md",
     "Lore/History/Chained god prompt.md",
     "Gods and Religion/Western Pantheon/Western Pantheon.md",
@@ -438,12 +444,6 @@
     "zzAttachments/Pasted image 20250430134230.png",
     "zzAttachments",
     "People/Factions/Unbroken Earth Sect.md",
-    "People/Factions/The Flock.md",
-    "People/Factions/Silverbrand Company.md",
-    "People/Factions/Red Law.md",
-    "People/Factions/Driftfleet.md",
-    "People/Cultures/Chusuqama.md",
-    "People/Cultures/Mangrove Divers.md",
     "People/Cultures",
     "People/Factions",
     "People",

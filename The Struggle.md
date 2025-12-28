@@ -1,0 +1,1 @@
+The Struggle, also known as Strife, or Fight Until You Die, is part of the [[Western Pantheon]], and is the god of Growth Through Adversity.
