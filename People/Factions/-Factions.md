@@ -5,7 +5,7 @@ Made using [[Iconography and Alignment]]
 Freedom: [[Industrialists]].
 Permanence: [[Magocracy]].
 Knowledge: [[Brotherhood of the Hermetic Machine]]
-Nature: [[Unbroken Earth Sect]].
+Nature: [[Beastblood Conclave]].
 
 Freedom-Knowledge: [[Silverbrand Company]]
 Freedom-Nature: [[Driftfleet]]
