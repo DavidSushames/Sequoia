@@ -1,4 +1,4 @@
-This sun has roots. It lies in the center of the hole in the middle of [[Sequoia]]
+This sun lies in the center of the hole in the middle of [[Sequoia]]
 
 Its roots burrow through the earth, tunneling all the way out to the outside edge, giving much-needed heat and light to the depths of the underground.
 

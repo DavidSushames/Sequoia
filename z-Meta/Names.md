@@ -77,7 +77,6 @@ Tui-gien
 Maren
 Mag Raekel - Witchy name
 Caldera
-Eiaro (ay-ar-o, with a rolled r)
 Clain
 Teirun/Tayrun
 Liole/Leol
@@ -115,6 +114,22 @@ Galinulus
 Resos
 Deving/Teving
 Ruan Geyser
+Sakata
+Ria
+Galo
+Mansor
+Costello
+Thiart
+Lokemi
+Carian
+Corunna
+Ayim
+Stahl
+Orapech
+Bajokh
+Storsjo-Dunn
+Tassos
+Yapam
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 

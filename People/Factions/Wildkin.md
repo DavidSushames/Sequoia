@@ -1,7 +1,7 @@
 Values: Permanence + Nature
 Associations: Fame, Eating, Winter. Giants, Cannibalism, Toads. 
 
-They live in the [[Eastern Continent]]
+They live in [[Aracata]]
 
 These guys have a caste system. Also tattoos. Every member has at least three tattoos. One on their forehead for their own profession, and one under each eye for the professions of their parents. They get more tattoos as they do awesome deeds.
 

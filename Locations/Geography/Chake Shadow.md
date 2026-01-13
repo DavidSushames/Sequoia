@@ -1,1 +1,1 @@
-The Chake Shadow is a [[Reality shadows|reality shadow]] in the [[Crater Continent]] that has many void beasts in it. Very dangerous.
+The Chake Shadow is a [[Reality shadows|reality shadow]] in the middle of [[Sacrent]] that has many void beasts in it. Very dangerous.

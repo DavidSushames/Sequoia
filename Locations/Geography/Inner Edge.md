@@ -5,4 +5,7 @@ You know how sunlight is good for you, but too much and your get sunburn and can
 
 You find stuff like the [[Glasslands]] here.
 
+You can't press down on the grass, because you are less real than it. It is like spikes.
+You can't affect the world as easily as you can elsewhere. It's identity is way too strong.
+
 Located from [[Annular Positioning System|APS]] 0-10

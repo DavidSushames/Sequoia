@@ -1,4 +1,4 @@
-The English Hedgehog's magic school that makes you nocturnal. It's on an island, in a lake, on another island, on the end of the [[Northern Continent]]. Biome is desert, so that's probably part of the reason why you go nocturnal. 
+The English Hedgehog's magic school that makes you nocturnal. It's on an island, in a lake, on another island, on the end of [[Arocca]]. Biome is desert, so that's probably part of the reason why you go nocturnal. 
 
 Takti is the name of the school/academy/monastery, Vlær is the name of the island it's on. 
 The names are combined when referring to the school, unless its in an informal context, like using a nickname.

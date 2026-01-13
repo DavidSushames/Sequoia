@@ -1,4 +1,4 @@
-The creation story, as told by the natives of the (WIP Continent). They are probably definitely wrong and also heretical.
+The creation story, as told by the natives of [[Aracata]] They are probably definitely wrong and also heretical.
 
 ---
 In the beginning, before there was anything, there were four brothers. 

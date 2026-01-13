@@ -1,7 +1,7 @@
 Values: Knowledge 
 Associations: Persistence, Fire, Ships, Murdering, Silver, Dogs.
 
-The Church of Sun Everadiant can be rat fuck bastards. Their heartland is the [[Crater Continent]], where they rage a constant war against the horrors pouring out of the [[Chake Shadow]]
+The Church of Sun Everadiant can be rat fuck bastards. Their heartland is in [[Sacrent]], where they rage a constant war against the horrors pouring out of the [[Chake Shadow]]
 
 Instead of believing in the perpetual cycle/dichotomy of [[The Cycle (Southern Pantheon)]], they only recognise the [[Sun]] as a god, spurning the [[Void]] as a great enemy. (They are right.)
 
