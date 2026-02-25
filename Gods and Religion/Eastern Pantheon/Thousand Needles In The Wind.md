@@ -1,6 +1,6 @@
 She is called something like Thousand Needles In The Wind, and she is all birds. 
 
-One of the dark gods of the [[Eastern Pantheon]], Thousand Needles exists within every bird.
+One of the dark gods of the [[The Mob (Eastern Pantheon)]], Thousand Needles exists within every bird.
 
 If enough birds get together in one place, she can speak through them, their chirping amalgamating into a distorted voice, sort of like those MIDI file piano things where its just notes but it sounds like singing and you can make out the words. 
 

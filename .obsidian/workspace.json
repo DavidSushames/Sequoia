@@ -32,89 +32,30 @@
             }
           },
           {
-            "id": "2d918545713c9bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Geography/Aracata.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aracata"
-            }
-          },
-          {
-            "id": "78c9cfb678db8e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Geography/Eiaro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Eiaro"
-            }
-          },
-          {
-            "id": "b617bbe11a6f7d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Geography/Aracata.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aracata"
-            }
-          },
-          {
             "id": "9a0a0eaf9be13770",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "People/Factions/Church of Sun Everadiant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Church of Sun Everadiant"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,6 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lore/Annular Positioning System.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Annular Positioning System"
             }
           }
         ]
@@ -379,34 +321,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9a0a0eaf9be13770",
+  "active": "fa035fbb1802d3e0",
   "lastOpenFiles": [
-    "Locations/Geography/Leqan.md",
-    "Locations/Geography/Aracata.md",
-    "Locations/Geography/Chake Shadow.md",
     "People/Factions/Church of Sun Everadiant.md",
-    "Locations/Geography/Kelen.md",
-    "Locations/Structures/Takti Vlær.md",
-    "Locations/Geography/Upper Atmosphere.md",
-    "Locations/Geography/Keriu.md",
-    "Locations/Geography/Klo.md",
-    "Locations/Geography/Arocca.md",
-    "Locations/Geography/Marikol.md",
-    "Locations/Geography/Sacrent.md",
-    "Locations/Geography/Eiaro.md",
-    "Locations/Geography/Douro.md",
-    "Locations/Geography/Sequoia.md",
-    "z-Meta/Names.md",
     "z-Meta/-Slush Pile.md",
-    "Creatures/Monstrum/Star-Serpents.md",
-    "Lore/Annular Positioning System.md",
-    "People/Factions/Industrialists.md",
-    "Locations/Geography/Outer Edge.md",
-    "Lore/History/Origin Story.md",
-    "People/Factions/Wildkin.md",
-    "Lore/Magic/Reality.md",
+    "People/Factions/Beastblood Conclave.md",
+    "People/People.md",
+    "People/Characters/The Gunman of Old County.md",
+    "Demons.md",
+    "The Bastard Wastes.md",
+    "Locations/Geography/West/Douro.md",
+    "Andoria.md",
     "Locations/Geography/Inner Edge.md",
+    "Lore/Magic/Reality.md",
+    "Reality shadows.md",
+    "Gods and Religion/Western Pantheon/Totem Host (Western Pantheon).md",
+    "Gods and Religion/Eastern Pantheon/The Mob (Eastern Pantheon).md",
+    "Gods and Religion/Southern Pantheon/The Balance (Southern Pantheon).md",
+    "Locations/Geography/South",
+    "Locations/Geography/East",
+    "Locations/Geography/West",
+    "Locations/Geography/North",
+    "Lore/Calendar.md",
+    "Gods and Religion/Eastern Pantheon/The Struggle.md",
     "Locations/Geography/Sun.md",
+    "Church Space Program.md",
+    "Travel Times.md",
+    "z-Meta/Names.md",
+    "Orcs.md",
+    "Plot Hooks (Spoilers).md",
+    "Locations/Geography/East/Leqan.md",
+    "Locations/Geography/East/Aracata.md",
+    "Locations/Geography/South/Chake Shadow.md",
     "Untitled.base",
     "zzAttachments/Pasted image 20250523220041.png",
     "zzAttachments/Pasted image 20250430134230.png",
@@ -415,10 +361,6 @@
     "People/Factions",
     "People",
     "Meta",
-    "Lore/Technology",
-    "Lore/Magic",
-    "Lore/Languages",
-    "Lore/History",
     "Pasted image 20250430134221.png",
     "Pasted image 20250430134159.png"
   ]

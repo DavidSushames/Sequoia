@@ -19,8 +19,6 @@ Bad guy keeps a big gun inside a pillar. Smashes the pillar and pulls out the gu
 
 Sell your karma. Can get cash in exchange for bad luck. Only extremely poor or desperate people do this.
 
-Oasis with weird water that turns things into monsters.
-
 Flowers that grow inside you. Hallucinogens. You walk out of the flower field and you get really thirsty, and then fall over and die and flowers sprout from your corpse.
 
 Pit of god ash from leftover dead relics. People are kicked down there.
@@ -34,7 +32,7 @@ Living island floating raft animals. Kinda like Reefbacks from subnautica except
 The Other Side. Faerie/shadow realm
  The upside down. Town that exists in two places at once. The Well.
 
-Don't lie to fey. Or at least don't get caught in a lie. If you tell an obvious lie, not only are you trying to trick them, you're implying that they're too stupid to see through it, and that's an insult. You'd be dead before you can blink
+Don't lie to fey. Or at least don't get caught in a lie. If you tell an obvious lie, not only are you trying to trick them, you're implying that they're too stupid to see through it, and that's an insult. You'd be dead before you can blink.
 
 "It seems you only speak the language of the sword. Fortunately, I happen to be fluent."
 
@@ -61,18 +59,14 @@ And in the end, you'll also be nothing more than ashes."
 
 Cool stronghold, but it's actually a prison for a really powerful guy.
 
-Potom island incident
-
-**5. PURPLE OGRE**
+**PURPLE OGRE**
 Tusked purple giant. Covered in black bristles. Loves ugliness and the scent of rotting flesh. Claps its hands over its ears and howls at the sound of poetry.
-
 Keeps its soul in a bottle hanging from a leather thong around its neck. Can't be killed in combat unless the bottle is broken. Severed limbs move autonomously. Likes to pluck off its own still-living head and juggle it.
-
 Can grant the ability to talk to animals, on condition that you die if any human hears you doing it. Will use this to bargain for its bottle back.
 
 HU-MAN. DIRTY BLOOD SPILLER. BUTCHER OF YOUNGLINGS. CRIMES UNSTACKABLE. GREAT SCOURGE OF THE EXTRAGALACTIC STARS. SON OF UNHOLY BEASTS.
 
-WE POSSESS NO STABBING INTENTIONS TO YOU. WE PROPOSE SWAP OF YOUR SKINS FOR OUR SKINS. WE ASK OF LITTLE. I DESIRE TEARING YOUR LEFT ARM, BITE YOUR RIGHT ARM, DEVOUR YOUR HEART AND PLANT YOUR BONE IN MY BED TO CALM OUR DEAD. CANNOT. MUST SAVE MY PESCANS INSTEAD. LIFE BETTER THAN DEAD.
+WE POSSESS NO STABBING INTENTIONS TO YOU. WE PROPOSE SWAP OF YOUR SKINS FOR OUR SKINS. WE ASK OF LITTLE. I DESIRE TEARING YOUR LEFT ARM, BITE YOUR RIGHT ARM, DEVOUR YOUR HEART AND PLANT YOUR BONES IN MY BED TO CALM OUR DEAD. CANNOT. MUST SAVE MY PESCANS INSTEAD. LIFE BETTER THAN DEAD.
 
 SINCERE THANKS. WE ARE NOT VIOLENT. WE WANT TO GRIND YOUR FOOT AND THROW YOUR TOE IN VOLCANO, BUT WE ARE TOO EXHAUSTED TO LIFT YOUR LEG. WE ONLY WANT TO FLY INTO STARS AND MAKE NEW HOMELAND. WE HATE WAR. LEAVE US ALONE
 
@@ -100,23 +94,13 @@ reading memories of wood is painful af
 Emperor of Xandaara is a Titan Dragon. He hoards power and magic.
 Dragon God Emperor Azun'mael, The White Flame of Xandaara.
 
-
-
-Sell your fate
 The city is hungry 
-Oasis with weird water. Turns things into monsters.
-Flowers that grow inside you. Hallucinogens. You walk out of there and get thirsty and then you fall over and flowers sprout from your corpse.
 Pit of god ash. People are kicked down there.
 
 Death gang has cool money with weird crystals that absorb bloods
 
 The wilds have the best soil, because the chaos magic makes good crops .
 Wine cowboys
-
-Forge. Can resurrect people once.
-
-
-
 
 Giant ape with spines. Bear hug and then runs away. Well stalk you until the infection makes you too sick to move, and then eats you.
 
@@ -142,11 +126,7 @@ Plants that grow in a lattice. Grows fast. Chuck a frame down and it'll make a h
 Bone serpent swarm. Made from the dead. Burial grounds. Guardian?
 
 
-
-
-
 Classic group of vampires want to extinguish the sun.
-
 Faction wants to stop them (yes, its Dawnguard with different name. Stfu.)
 
 Cult of the Burning Mind. Very much like The Gamer's church of masks. Big fight, all the heirophant's mooks suddenly collapse, a glowing substance flows into the Heirophant, giving him epic powers. 
@@ -174,9 +154,6 @@ Pale serpents cult, The Great Work, to conquer death. Walter Tye lich? ankou, ea
 
 Council of Lower Earth. Big meeting of the terra elements, Goblinpunch Death Metal, they want you to free certain prisoners
 
-Efstratiou.
-Wearing armour on a ship is generally seen as a Bad Idea. You'll sink like a rock. 
-
 Davy Jones. Offers a deal to drowning players. Swashbuckler/Warlock. The sea itself is his Patron.
 
 Kraken. Likes magic, do not cast spells while on the water within its territory or it will find you. 
@@ -191,8 +168,6 @@ Calypso big big sea bitch. Makes storms.
 
 • THE PENTAHOOK is like the hand of Vecna but different. Bigby's hand at will but slashing
 Animated golem bowsprit
- 
-Immense cosmic snake that constricts the sun to stop it going supernova. It spits Exotics (known as snakestones) out to the planets below. They grant power but come at a cost.
 
 Trees with a heartbeat.
 
@@ -200,28 +175,19 @@ THE HARVEST IS ENDING
 
 Cannibal had a tattoo which he has since removed via knife
 
-Werewolf or some big guy who has a giant gun (AA gun or sumn) that he keeps inside a Pillar. Smashes the Pillar and starts blasting as the roof starts falling. Phase 2.
-
 Storage item but:
 Vault of Winter: the inside is extremely cold.
 Desert Pendant: keeps filling up with hot sand. Will leak sand if it gets too full.
-
 
 Don't speak the name of the brown one. It will summon him. 
 Honey-eater, tree-climber, fish-hunter, man-killer. All are the brown one.
 The brown one is a god amongst men: as we do not say the names of the gods, we do not say the name of the brown one.
 If you wish to face the gods early, speak the name of the brown one. It will summon him.
 
-
-Godpacts are the primary way to get magic. It's a contract. you get power, they get faith (and maybe a favour). Magic can be learned though, like if you talk to elementals enough.
-
 Mech touch 3118, 5433, 5436.
 Galaxies have agendas.
 Too big a scale. Planets? Still too big. Cities works. That's just a zondervose.
 Countries perhaps. Zondervoses are kind to those who further their agendas.
-YO GODPACTS ARE AN INVESTMENT
-
-Gods/zondervoses are the same.
 
 Galaxies are alive, and have their own agendas. They use their various lifeforms/resources to fight and gain influence over other galaxies.
 They favour people who can further their goals.
@@ -276,3 +242,5 @@ D8 for depth.
 https://nothicseye.blogspot.com/2024/11/six-dungeon-gods.html
 
 Very sticky tree that catches birds.
+
+Fortress city, built to stop monsters from emerging from (Monster place). Monster numbers lessened, so troops were moved away, replaced by mercenaries. The empire needs meat shields still. Because of the mercenaries, other infrastructure cropped up. Banks, restaurants, inns, etc. Fortress is now a Fortress City. But it also has another name: Suicide Street. It's the Maginot line, but different.

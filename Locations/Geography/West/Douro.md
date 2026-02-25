@@ -1,0 +1,1 @@
+On the same landmass as [[Eiaro]], seperated by the [[The Bastard Wastes]].

@@ -1,0 +1,2 @@
+Demons were people who have had their soul replaced/taken over/devoured by a [[Spirit]]. Often caused by people making unwise deals, or Mages reneging on their deals or biting off more than they can chew. 
+They live on the [[Underside]], where they can walk around normally, due to lack of a soul. They have physical traits reminiscant of the spirit that they house. They deal in souls, as they can be used as a power source.

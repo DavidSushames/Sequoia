@@ -58,7 +58,7 @@ Third month of Winter. Days and night start to return to their regular length as
 A week has 6 days:
 Mondal
 Kindal
-Middal
+Mitdal
 Freidal
 Vitdal
 Sondal.

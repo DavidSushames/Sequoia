@@ -130,6 +130,10 @@ Bajokh
 Storsjo-Dunn
 Tassos
 Yapam
+Efstratiou
+Listar
+Kasen
+Potom
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 

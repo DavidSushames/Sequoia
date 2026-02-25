@@ -8,4 +8,4 @@ Cool scene where a snake swooshes past the [[Outer Edge]] of the dish, briefly s
 
 Also they sometimes shed their scales which fall onto the dish as Snakestones. People can absorb them to gain power, but this comes at a cost.
 
-Followers of the [[The Cycle (Southern Pantheon)]] believe the Star Serpents to be reincarnations of their ancestors.
+Followers of the [[The Balance (Southern Pantheon)]] believe the Star Serpents to be reincarnations of their ancestors.

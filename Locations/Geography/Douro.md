@@ -1,1 +1,0 @@
-On the same landmass as [[Eiaro]], seperated by the [[Big Fucking Desert]].

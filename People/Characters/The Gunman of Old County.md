@@ -1,6 +1,6 @@
 A legend told to children to get them to finish their supper. A phantom out in the wilds.
 
-Jack Webber was an outlaw and a gambler in the [[Wild East]] before he was possessed by a [[Demons]].
+Jack Webber was an outlaw and a gambler in [[Aracata]] before he lost his soul in a bet with a [[Demons|demon]].
 
 Very scary guy. Very lucky. 50/50 is more like 75/25 for him.
 

@@ -3,7 +3,7 @@ Freedom means shaping your own destiny.
 Freedom is fluidity.
 Freedom carries memories of structure.
 Freedom is not just movement, but choosing **when** to move.
-Freedom is not just survival, but survival **anywhere**, through cleverness and adaptation.
+Freedom is living, not just survival. Survival anywhere, through cleverness and adaptation.
 Freedom means having options.
 #### Metalworking
 *We take the spirits of the land and fashion our own gods of iron.*
@@ -70,7 +70,7 @@ The past is never truly buried: Winter preserves both food and grudges.
 Knowledge requires the will to do what must be done.
 Knowledge takes nature's gifts and makes them our own.
 Knowledge is mastery over the unknown.
-Knowledge is not power, but knowing how to use it is.
+Knowledge is not power, but knowing how to use it.
 Knowledge is having a big fucking dog to maul people for you.
 #### Persistence
 *Life doesn't die on command. It bites, howls, claws, and kicks until the last beat of the heart.*

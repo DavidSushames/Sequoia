@@ -1,4 +1,4 @@
-Country/extremist sect of [[Western Pantheon]]. 
+Country/extremist sect of [[Totem Host (Western Pantheon)]]. 
 Yes, the divine animals (Ant/Spider/Shark/Octopus/Crow/Eagle/Dog/Cat) are gods, but so are regular ants/spiders/etc. Each one contains a tiny little spark of divinity, and must be treated with respect.
 Killing one of the divine creatures is illegal, and subject to harsh punishment. Yes, even if the tiger was trying to eat you at the time. There's a little more leeway with ants, they're extremists, not idiots.
 
