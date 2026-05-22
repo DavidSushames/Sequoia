@@ -1,23 +1,12 @@
 ---
 tags:
   - template/religion
+parentLocation:
 ---
-# <% tp.file.title %>
----
-general info goes here
-
 ```ad-Religion-info
 title: <% tp.file.title %>'s breakdown
 
-Motto:
-
-Alternative Names:
-
 Demonym:
-
-Founding Date:
-
-Dissoution Date: (Remove if none)
 
 Leader:
 

@@ -5,3 +5,4 @@ Instead, their bodies are shaped by memetics and CNA (Cultural Narrative Archite
 The way you act and the culture you belong to, determine the shape of your body more than anything else.
 
 Someone who spends a lot of time climbing trees may find that their toes and fingers grow longer, so as to be easier to hold onto branches with.
+

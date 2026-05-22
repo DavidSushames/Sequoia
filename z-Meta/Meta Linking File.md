@@ -5,3 +5,7 @@
 [[Power structures]]
 [[Useful links for game stuff]]
 [[Iconography and Alignment]]
+[[Plot Hooks (Spoilers)]]
+[[WIP]]
+[[Stuff to steal plots from]]
+[[Travel Times]]

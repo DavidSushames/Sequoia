@@ -1,7 +1,15 @@
 ---
 tags:
   - template/settlement
+parentLocation:
 ---
-# <% tp.file.title %>
----
-general info goes here
+```ad-Settlement-info
+title: <% tp.file.title %>'s Information
+
+Ruler:
+
+Major Factions:
+
+Geographic Location:
+
+```

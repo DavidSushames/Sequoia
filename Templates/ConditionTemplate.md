@@ -2,10 +2,6 @@
 tags:
   - template/condition
 ---
-# <% tp.file.title %>
----
-basics about the condition here
-
 ```ad-condition-info
 title: <% tp.file.title %>'s details
 

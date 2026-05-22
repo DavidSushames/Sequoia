@@ -1,27 +1,17 @@
 ---
 tags:
   - template/building
+parentLocation:
 ---
-# <% tp.file.title %>
-
----
-info about the building
-
 ```ad-building-info
 title: <% tp.file.title %>'s Information
-Construction Date:
 
-Ruin Date:
+Owner:
 
-Ruler/Owner:
-
-Owning Organisation:
+Faction:
 
 Alt Names:
 
-Ownership Contests:
-
-Owning Rank:
 ```
 
 ---
@@ -31,16 +21,10 @@ Owning Rank:
 ### History
 
 ---
-### Alterations to the Building
-
----
 ### Architecture
 
 ---
 ### Defenses
-
----
-### Tourism
 
 ---
 ### Important or Notable Rooms

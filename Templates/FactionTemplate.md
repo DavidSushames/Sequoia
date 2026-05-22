@@ -1,12 +1,10 @@
 ---
 tags:
-  - template/country
+  - template/organisation
 parentLocation:
 ---
-```ad-Country-info
+```ad-Organisation-info
 title: <% tp.file.title %>'s breakdown
-
-Alternative Names:
 
 Demonym:
 
@@ -14,12 +12,13 @@ Leader:
 
 Ruling Organisation: (Remove if none)
 
-Geographic Location:
+Leader Title: 
+
 ```
 
 ### Government System
 ---
-The organization's structure defines the hierarchy of titles within it. It describes the major roles and their responsibilities in the organization. Examples of these roles are the King of a kingdom, the Treasurer of a Merchant's guild, the Acolyte of a religious order.
+The faction's structure defines the hierarchy of titles within it. It describes the major roles and their responsibilities in the organization. Examples of these roles are the King of a kingdom, the Treasurer of a Merchant's guild, the Acolyte of a religious order.
 
 ### Culture
 ---

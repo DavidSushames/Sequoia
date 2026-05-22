@@ -2,53 +2,26 @@
 tags:
   - template/deity
 ---
-# <% tp.file.title %>
----
-General info regarding the character
-
 ```ad-Deity-info
 title: <% tp.file.title %>'s Physical Characteristics
-Eye Color:
-
-Age:
-
-Skin Features:
 
 Pronouns:
 
-Hair:
+Domain:
 
-Species:
+Pantheon:
 
-Height:
+People:
 
-Weight:
-
-Ethinicity:
-
-Sex:
-
-Gender:
+Appearance:
 ```
 
 ## History
 ---
 
-
-## Notable Relationships or Family
----
-
-
-## Education and Achievements
+## Relations
 ---
 
 ## Personality
 ---
-
-## Relationship to the Divine
----
-
-## Magical Prospects
----
-
 

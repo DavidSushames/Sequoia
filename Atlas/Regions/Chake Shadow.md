@@ -1,14 +1,14 @@
 ---
 tags:
   - template/geography
-parentLocation:
+parentLocation: "[[Sacrent]]"
 ---
 ```ad-Geography-info
-title: <% tp.file.title %>'s Information
+title: Chake Shadow's Information
 
-Major Factions:
+Parent Location: [[Sacrent]]
 
-Geographic Location:
+Major Factions: [[Andoria]]
 
 ```
 
@@ -36,3 +36,5 @@ Wood from the forests, grain from the fields, sheep in the rolling hills and met
 ## History
 ---
 A short description of the history of the geographic location. Don't forget that you can add all the important events at the location's timeline by creating a timeline and attaching it to the article.
+
+The Chake Shadow is a [[Reality shadows|reality shadow]] in the middle of [[Sacrent]] that has many void beasts in it. Very dangerous.

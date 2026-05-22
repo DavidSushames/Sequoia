@@ -2,6 +2,15 @@
 tags:
   - template/material
 ---
-# <% tp.file.title %>
+## Appearance
 ---
-general info goes here
+
+## Properties
+---
+
+## Common usage and Importance
+---
+
+## Cultural Significance
+---
+

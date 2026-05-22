@@ -2,10 +2,6 @@
 tags:
   - template/conflict
 ---
-## <% tp.file.title %>
----
-general info here
-
 ```ad-Conflict-info
 title: Breakdown of the <% tp.file.title %> conflict
 
@@ -33,25 +29,8 @@ Result:
 ## Prelude
 ---
 
-## Deployment
----
-
 ## Battlefields
 ---
 
-## Combat Conditions
+## Outcome and Consequences
 ---
-
-## Rules of Engagement
----
-
-## Final Result
----
-
-## Consequences and Legacy
----
-
-## Technology Used
----
-
-

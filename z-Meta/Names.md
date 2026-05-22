@@ -46,7 +46,6 @@ Achelte
 Anau
 Tisun
 Vaer
-Inusannon
 Lokoa
 Jagan
 Se'eray
@@ -89,7 +88,6 @@ Ogives (island chain?)
 Kyrus/Kairus
 Daeru
 Taris
-Ulro
 Glire
 Moreska
 Tifon
@@ -134,6 +132,32 @@ Efstratiou
 Listar
 Kasen
 Potom
+Silago
+Norolisk
+Rase
+Hayme
+Cyrren/Cyrrent/Cyreng
+Cenobia
+"Shadow Fleet"
+Abrham
+Auckram
+Vatikani
+Bolitho
+Markham
+Carrodus
+Skagen
+De'Rad
+"The Drowning Lands"
+Menoch/Minnoch
+Sirvid
+Carrera
+Piqero
+Nikora
+Crozier
+Uba
+Palenque
+Arveiu
+Sokol
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 

@@ -1,5 +1,5 @@
-Revlis, also known as corpsepearl and antisilver, is an organic material that grows inside the bodies of corporeal undead. 
-It is shiny, reminiscent of  paua/abalone shell, or an oil slick.
+Revlis, also known as corpsepearl and antisilver, is an organic material that grows inside the bodies of corporeal undead. Skeletons will get coated in this stuff. 
+It is shiny, reminiscent of paua/abalone shell or an oil slick.
 
 When brought into contact with silver, it rapidly disintegrates, giving off heat and light. The silver is undamaged, but may tarnish.
 

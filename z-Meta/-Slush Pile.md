@@ -1,3 +1,5 @@
+A LOT OF THIS SHIT IS LEFT OVER FROM A PREVIOUS PROJECT, SO NOT EVERYTHING WILL WORK!!!
+
 There’s a rumor about whales; they don’t need to swim. Anything with that much power and gray matter could figure out walking if they wanted to. Rumor among sailors is they’re afraid of something, which is why they ran to the sea.
 These tales are told by long-retired sailors, and only in taverns far from the sea. The risk of a whale overhearing is too great shoreside.
 
@@ -225,19 +227,6 @@ https://caput-caprae.blogspot.com/2021/11/slush-pile-1121.html?m=1
 Big pond that you have to cross. Giant white carp live in it. Giant dead birds float on the surface, there's a bunch piling up in a corner of the pool. You can stand on the pile, for now. A carp will occasionally pull one of the birds under. They'll get you if you try swim across. You gotta close your eyes while you do it (they can see what you see, and can identify your position that way). While you swim (eyes closed), you'll slowly grow scales and fins. Webbed fingers. It's beautiful. 
 
 Tiny little rainbow iridescent sea slug. Nudibranch? That one Pokemon, but moreso. Gastrodon. It can psychically control a humanoid puppet, which looks *exceptionally* real. The puppet is of a cute girl, posing as a tinker. Keeps her real self in a tiny glowing box that's hard to open. Will know as soon as anyone touches it.
-
-This city is a giant ring city with high walls. It is shaped like a donut, with all the farms on the inside. This means that the population can only get so high. That's ok, because they are constantly drafting people to defend the walls from the demons. Because some idiot decided to make a city in the beast lands.
-
-D12 for circular bearing. Like a Clock. 
-D8 for depth.
-1: Superhot
-2: Jungle
-3: Savanna
-4: Desert
-5: Humid Continental
-6: Boreal/Taiga
-7: Tundra
-8: Supercold 
 
 https://nothicseye.blogspot.com/2024/11/six-dungeon-gods.html
 

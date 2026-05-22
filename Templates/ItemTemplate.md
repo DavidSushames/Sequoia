@@ -2,10 +2,6 @@
 tags:
   - template/item
 ---
-# <% tp.file.title %>
----
-info about the item
-
 ```ad-Item-info
 title: <% tp.file.title %> General Information
 
@@ -17,9 +13,6 @@ Base Price:
 
 Rarity:
 
-Creation Date:
-
-Destruction Date:
 ```
 
 ## History

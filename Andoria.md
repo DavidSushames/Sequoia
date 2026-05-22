@@ -1,5 +1,0 @@
-Andoria is a city within the [[Chake Shadow]] in [[Sacrent]].
-
-Andoria seems like a walled, dead city with specters that walk the streets, but in reality, it is bustling with life. Farms line the inside of the walls in the lower circle, fields of wheat and vegetables grown in lines. Dark animals like cows and pigs are kept in pens slightly higher than the farmland, being raised by generations of the same families. The market circle is filled with food, trinkets and what may be somber music to those not used to the city, but the residents walk with soft smiles. The ring above that is the Mage houses, where warriors who weild the darkness that threatens to swallow the city, have their homes. Dark clothed women watch the walls and city, making sure that everyone is safe. The jewel of the city is the obsidian castle, rooms upon rooms for guests that not longer live. The throneroom lays in the center of the domed tower, a throne of gold sits 3 stairs above the sparkling floor. 
-Upon the throne is the Empress Alania, ruler of Andoria and its people. She is powerful in darkness magics, wielding her scepter as both empress and warrior.
-

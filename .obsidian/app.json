@@ -3,5 +3,6 @@
   "spellcheck": false,
   "userIgnoreFilters": [
     "Templates/"
-  ]
+  ],
+  "promptDelete": false
 }
