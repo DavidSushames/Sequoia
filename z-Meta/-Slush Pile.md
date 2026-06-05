@@ -233,3 +233,10 @@ https://nothicseye.blogspot.com/2024/11/six-dungeon-gods.html
 Very sticky tree that catches birds.
 
 Fortress city, built to stop monsters from emerging from (Monster place). Monster numbers lessened, so troops were moved away, replaced by mercenaries. The empire needs meat shields still. Because of the mercenaries, other infrastructure cropped up. Banks, restaurants, inns, etc. Fortress is now a Fortress City. But it also has another name: Suicide Street. It's the Maginot line, but different.
+
+
+Area away from any cities. Not particularly inhabitable, but there is acid. Magic acid. Makes magic batteries. For magic items.
+No cities, just forts/outposts, and plenty of caravans. Trade routes.
+It's all in <Offworld>'s territory, and they won't stand for killing in their territory.
+<Foundry> was a Sovereign mining expedition, sent to scope out the acid. They have acid weaponry, because they've been here a while.
+<Sovereign> wants the acid, now they know it's hella profitable. 

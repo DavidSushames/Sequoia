@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa035fbb1802d3e0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d51b2a1de562c667",
+            "id": "9d5fc60f09548920",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Nations/Arveian Imperium.md",
+                "file": "Items/Materials/Strikeshard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arveian Imperium"
+              "title": "Strikeshard"
             }
           },
           {
-            "id": "96b58a0a73161d03",
+            "id": "1271b10fec27b576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Characters/Arveiu.md",
+                "file": "Templates/CultureTemplate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,117 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arveiu"
-            }
-          },
-          {
-            "id": "46f5eeca9b94e946",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ef55e92b3f54fa6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vesan Imperium.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vesan Imperium"
-            }
-          },
-          {
-            "id": "86853367b9f85114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Geography/Void.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Void"
-            }
-          },
-          {
-            "id": "8770e4fdaf92a639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Geography/Inner Edge.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inner Edge"
-            }
-          },
-          {
-            "id": "bb4f9d7a23a2e40a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Magic/Immortals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Immortals"
+              "title": "CultureTemplate"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Characters/Arveiu.md",
+                "file": "Templates/CultureTemplate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Arveiu"
+              "title": "Graph of CultureTemplate"
             }
           }
         ]
@@ -379,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Characters/Arveiu.md",
+                "file": "Atlas/Sites/The End.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arveiu"
+              "title": "Outline of The End"
             }
           },
           {
@@ -417,9 +301,18 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "2e2dff9845c898bb",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -441,44 +334,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5a1e5c373ef9e2f6",
+  "active": "1271b10fec27b576",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Faith/Klo (god).md",
+    "zOldTemplates/ReligionTemplate.md",
+    "zOldTemplates/PeopleTemplate.md",
+    "zOldTemplates/MaterialTemplate.md",
+    "zOldTemplates/LanguageTemplate.md",
+    "zOldTemplates/GeographyTemplate.md",
+    "zOldTemplates/FactionTemplate.md",
+    "zOldTemplates/DeityTemplate.md",
+    "zOldTemplates/ItemTemplate.md",
+    "zOldTemplates/BuildingTemplate.md",
+    "zOldTemplates/CharacterTemplate.md",
+    "Templates/CharacterTemplate.md",
+    "Templates/CultureTemplate.md",
+    "Items/Materials/Strikeshard.md",
+    "Templates/SiteTemplate.md",
+    "Templates/CosmologyTemplate.md",
+    "Templates/NationTemplate.md",
+    "Templates/ReligiousFactionTemplate.md",
+    "Templates/PantheonTemplate.md",
+    "Templates/ArtifactTemplate.md",
+    "Templates/MaterialTempalte.md",
     "Church Space Program.md",
-    "People/Cultures/Ulcers.md",
-    "Factions/Religious/Void Witches.md",
-    "Bestiary/Monstrum/Void Souls.md",
-    "Saints.md",
-    "Factions/Nations/Arveian Imperium.md",
-    "Untitled.md",
-    "Factions/Brotherhood of the Hermetic Machine.md",
-    "People/Cultures/Driftfleet.md",
-    "Factions/Organizations",
-    "Factions/Nations",
-    "People/Cultures/Wildkin.md",
-    "Factions/-Factions.md",
-    "Factions/Organizations/Red Law.md",
-    "Factions/Nations/Industrialists.md",
-    "Factions/Religious/Beastblood Conclave.md",
-    "Factions/Religious",
-    "Items/Materials/Rockwool.md",
-    "Faith/Angels.md",
-    "Faith/Rogue Gods.md",
-    "Faith/Gods.md",
-    "Faith/Clergy Hierarchy.md",
-    "People/Characters/Saint Rhea the Martyr.md",
-    "Faith/Pantheons/Triptych (Northern Pantheon).md",
-    "Faith/Pantheons",
-    "Faith/Pantheons/Thousand Needles In The Wind.md",
-    "Faith/Pantheons/The Struggle.md",
-    "Atlas/Regions/The Bastard Wastes.md",
-    "Atlas/Continents/Sacrent",
-    "Atlas/Continents/Marikol",
-    "Atlas/Continents/Leqan",
-    "Atlas/Continents/Klo",
-    "Atlas/Continents/Keriu",
+    "Templates/OrganisationTemplate.md",
+    "zOldTemplates/CountryTemplate.md",
+    "Templates/TechnologyTemplate.md",
+    "Templates/HistoryTemplate.md",
+    "MagicTemplate.md",
+    "Untitled.base",
+    "zOldTemplates",
+    "zNewTemplates",
     "zzAttachments/Pasted image 20250523220041.png",
+    "Untitled 1.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 9.base",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "Untitled 4.base",
     "zzAttachments/Pasted image 20250430134230.png",
     "Pasted image 20260325213634.png",
     "Locations/Geography/Untitled.canvas",

@@ -3,22 +3,22 @@ Freedom is the driving force of progress.
 Freedom is changing paths, finding new ways, and leaving behind what is no longer required.
 Freedom is constantly spreading and hard to stop. Freedom is escape from confines of everyday life.
 
-Freedom is Metalworking, Water, Spring, Lizards, Lichen, and the Sun.
+Freedom is Metalworking, Water, Lizards, Lichen, Spring, and the Sun.
 #### Metalworking
 Metalworking is creating the tools you need to survive.
 Metalworking is finding beauty in function. If it looks nice but doesn't work, it's ugly.
 #### Water
 Water is fluid, adaptable, seeking the path of least resistance.
 Water is patient. Water and time can carve through a mountain. 
-#### Spring
-Spring is new growth, new developments
-Spring is breaking free from the cold oppression of winter.
 #### Lizards
 Lizards shed their skin when they no longer need it.
 Lizards drop their tails of doing so will save them.
 #### Lichen
 Lichen is difficult to stamp out. 
 Lichen will grow everywhere, without permission.
+#### Spring
+Spring is new growth, new developments
+Spring is breaking free from the cold oppression of winter.
 #### Sun
 The Sun is a beacon of light that guides you home. 
 The Sun is light and warmth, allowing life to flourish.

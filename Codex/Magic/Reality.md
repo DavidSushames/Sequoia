@@ -5,3 +5,5 @@ That's why the [[Inner Edge]] and [[Outer Edge]] are so weird, the rules are dif
 Stuff to read:
 Terry Pratchett - Mort
 The Great Divorce. 
+
+[[WIP]]

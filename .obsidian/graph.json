@@ -5,61 +5,75 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Creatures  ",
+      "query": "path:Bestiary  ",
       "color": {
         "a": 1,
-        "rgb": 51320
+        "rgb": 12135725
       }
     },
     {
       "query": "path:Meta  ",
       "color": {
         "a": 1,
-        "rgb": 16762980
+        "rgb": 16777215
       }
     },
     {
       "query": "path:People ",
       "color": {
         "a": 1,
-        "rgb": 13132900
+        "rgb": 6605186
       }
     },
     {
-      "query": "path:\"Gods and Religion\"  ",
+      "query": "path:Faith",
       "color": {
         "a": 1,
-        "rgb": 25855
+        "rgb": 547238
       }
     },
     {
       "query": "path:Items  ",
       "color": {
         "a": 1,
-        "rgb": 13133000
+        "rgb": 9344492
       }
     },
     {
-      "query": "path:Locations  ",
+      "query": "path:Atlas  ",
       "color": {
         "a": 1,
-        "rgb": 1336320
+        "rgb": 22289
+      }
+    },
+    {
+      "query": "path:Factions  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "path:Codex  ",
+      "color": {
+        "a": 1,
+        "rgb": 13616253
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.06979166666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 9.79166666666667,
+  "centerStrength": 0.697916666666667,
+  "repelStrength": 16.6666666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3823010968770022,
+  "scale": 0.27268599173600955,
   "close": false
 }

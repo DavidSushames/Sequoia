@@ -10,7 +10,7 @@ Nature: [[Beastblood Conclave]].
 Freedom-Knowledge: [[Silverbrand Company]]
 Freedom-Nature: [[Driftfleet]]
 Permanence-Knowledge: [[Red Law]]
-Permanence-Nature: [[Wildkin]]
+Permanence-Nature: [[Wildermen]]
 
 Freedom-Permanence
 Knowledge-Nature
@@ -41,3 +41,5 @@ Colonial Union
 Wolden-Dorf
 Alliance of Gentlemen
 Fluffy Biscuit Company
+
+[[WIP]]

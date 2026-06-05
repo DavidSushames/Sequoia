@@ -1,0 +1,2 @@
+Strikeshard is an [[-Exotic Materials|exotic material]].
+A pure white crystal that creates a lightning shock when you hit it. Used in magic weapons, strike the end of your weapon against something to electrify the blade or fire a blast of lightning. Also used in very expensive firestarters. Also some magical bombs. Strikeshards form in soil where a lightning bolt has struck recently. Harvesting them is dangerous, because if you're not careful with your shovel you can get electrocuted.

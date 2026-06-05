@@ -1,3 +1,8 @@
+---
+aliases:
+  - Immortal
+---
+
 There are many ways to reach immortality, but each one only works once. Anyone else who tries the same method either dies, mutates, or becomes a shit-tier servant of the original.
 Nobody quite knows why this is. Maybe the world is patching the holes as they're being discovered.
 Maybe the [[Gods]] were sick of [[The Flock (cannot use)|KU's]] little bastards running around and never dying, so they're only allowing one of each. 

@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "domesticated": "text",
+    "noteStatus": "text",
+    "diet": "text",
+    "factions-involved": "multitext",
+    "continent": "multitext"
+  }
+}

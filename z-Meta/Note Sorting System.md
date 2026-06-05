@@ -1,26 +1,29 @@
-### Creatures
+### Atlas
+**Continents:** Large landmasses with cultural separations
+**Settlements:** Places people live. Villages, towns, cities. Factions limited to a single city are mentioned.
+**Regions:** Great deserts, oceans, mountain ranges.
+**Sites:** Buildings, landmarks, wonders, statues, points of interest.
+### Bestiary
 **Fauna:** Animals of the world.
 **Flora:** Plants of the world.
 **Monstrum:** Monsters of the world.
-### Gods and Religion
-**Gods**: Mighty Ascended, Created or Self-created sentient beings
-### Items
-**Items:** Everyday use, coins, tools, weapons, armour from the most common to the unique
-**Artifacts:**
-**Materials:** Raw materials, Trade Resources, Chemical elements. Anything from Iron to Mythril to Uranium.
-### Locations
-**Countries:** Countries are specialized territorial organizations concerned with the management of their citizens.
-**Geography:** Planets, moons, mountain ranges, valleys, great seas, swamps and lakes. All geographic locations.
-**Settlements:** Anything from the tiniest of villages to the most bustling of megacities.
-**Structures:** Buildings, landmarks. Wonders both natural and built, ruins, dungeons, temples, great trees.
-### Lore
+### Codex 
+**Cosmology:** The Sun, world, space, all the Big Picture stuff.
 **History:**
-**Languages:** The ways that intelligent species communicate in the world and exchange ideas and thoughts.
 **Magic:**
 **Technology:**
+### Factions
+**Nations:** Factions with territories, governments, and citizens.
+**Organisations:** Guilds, companies.
+**Religious:** Churches, holy orders, cults.
+### Faith
+**Pantheons**: Factions of gods. Contains a list of the gods within the pantheon, rather than each god having its own note.
+### Items
+**Artifacts:** Excalibur, The One Ring, famous shit.
+**Materials:** Raw materials, exotic/magic materials.
 ### People
-**Cultures:**
-**Factions:** Organizations that are not bound to one city. 
+**Cultures:** Chinese, Indian, etc
+**Characters:** Individual people. John the Blacksmith, Dragon-King Laeron, etc.
 
 
 

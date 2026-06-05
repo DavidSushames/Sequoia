@@ -16,4 +16,4 @@ They still appear mostly human, but with a few animalistic features.
 An eagle's eyes, a serpent's fangs, a wolf's smell, a bear's strength, etc. 
 However, this consumption of other identities frays at the soul. They lose track of themself, and eventually they will run into the wilds as a wild beast. Only be eating the raw meat of a person can they retain their humanity. 
 
-The more raw meat/transformations you go through, the bigger you get. This is not only a size thing (caps out at 7-8ft), but a presence thing. You can *feel* it when a high level Wildkin walks past. Kinda like when they bad guy steps into the saloon, and everybody goes quiet. It's this invisible pressure thing. Natural Aura farmers.
+The more raw meat/transformations you go through, the bigger you get. This is not only a size thing (caps out at 7-8ft), but a presence thing. You can *feel* it when a high level Wilderman walks past. Kinda like when they bad guy steps into the saloon, and everybody goes quiet. It's this invisible pressure thing. Natural Aura farmers.

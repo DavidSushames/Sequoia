@@ -1,25 +1,22 @@
 ---
-tags:
-  - template/character
+culture:
 faction:
+noteStatus:
 ---
-```ad-character-info
-title: <% tp.file.title %>'s Physical Characteristics
+> [!infobox]
+> # `=this.file.name`
+> | Stat | Value |
+> |------|-------|
+> | Culture | `=this.culture` |
+> | Faction | `=this.faction` |
+> | Nationality | `=this.parentLocation` |
+> | Pronouns | - |
+> | Age | - |
 
-Pronouns:
+## Overview
 
-Age:
+## Appearance
 
-People:
-
-Appearance:
-
-```
 ## History
----
 
-## Relations
----
-
-## Personality
----
+## Motivations

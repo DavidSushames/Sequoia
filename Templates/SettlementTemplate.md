@@ -1,15 +1,19 @@
 ---
-tags:
-  - template/settlement
 parentLocation:
+continent:
+controlledBy:
+population:
+noteStatus:
 ---
-```ad-Settlement-info
-title: <% tp.file.title %>'s Information
+> [!infobox]
+> # `=this.file.name`
+> | Stat | Value |
+> |------|-------|
+> | Controlled By | `=this.controlledBy` |
+> | Population | `=this.population`
 
-Ruler:
+## Overview
 
-Major Factions:
+## Notable Locations
 
-Geographic Location:
-
-```
+## People & Factions

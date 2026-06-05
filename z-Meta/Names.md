@@ -156,8 +156,20 @@ Nikora
 Crozier
 Uba
 Palenque
-Arveiu
 Sokol
+Bardur
+Oumaji
+Kickoo
+Luxidoor
+Vengir
+Zebasi
+Ai-Mo
+Yadakk
+Cymanti
+Cheminant
+Maisuria
+Audain
+Rhoden
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 
