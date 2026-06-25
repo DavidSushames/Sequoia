@@ -1,4 +1,24 @@
-A huge expanse of desert that seperates [[Douro]] and [[Eiaro]].
-So named because its huge with all sorts of fucky shit in it. Worms, razor sand, and plants that grow inside you.
+---
+parentLocation: "[[Sequoia]]"
+continent:
+  - "[[Douro]]"
+  - "[[Eiaro]]"
+type: Desert
+noteStatus: WIP
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Continent | `=this.continent` |
+> | Type | `=this.type` |
 
+## Overview
+A huge expanse of desert that seperates [[Douro]] and [[Eiaro]].
+
+## Hazards & Features
+Worms.
+Razor sand.
 You come across a tiny oasis of flowering plants, barely a divot in the ground with a few scant handfulls of water in it. Such a small amount should have been absorbed by the sands long ago, its almost as if the flowers prevent it. Its not much, but its enough to quench your thirst in arid wasteland. Walking through the plants is safe, but kneeling down to drink or collect water is what dooms you. The flowers release pollen when disturbed, which forms a low lying cloud. Breathing in the pollen will cause seeds to take root inside your lungs. You'll drink your fill, and continue on your way. Meanwhile, the flowers grow inside you. The flowers are a potent hallucinogen. You'll wander aimlessly in a stupor, before eventually collapsing. Flowers sprout from your body, creating another beautiful oasis.
+
+## Inhabitants

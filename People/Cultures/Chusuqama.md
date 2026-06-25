@@ -1,3 +1,15 @@
+---
+parentLocation:
+continent:
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+
+## Overview
 The Chusuqama are the primitive native population of a massive jungle known for undeath. It is home to a unique fungus which controls the bodies of living creatures in order to spread, killing them in the process and feeding from the decomposing body. 
 
 The Chusuqama are known to outsiders but only in basic terms. Despite their lack of sophisticated technology they have maintained a fierce control of their jungle. Even those who have travelled there couldn’t tell you much about them. Where they live, how many there are, how their society is structured. All of this is up to speculation. People who enter their territory tend to be killed or escorted out pretty quickly. 
@@ -9,3 +21,7 @@ The Chusuqama live in deference to the cycle of life and death, as personified i
 The unique fungus that grows on the jungle floor is incredibly important in Chusuqama culture. By its very nature it bridges the entire cycle of death and life. Consuming it allows the mind to tap into the cycle and commune with the gods. Unfortunately it’s almost always fatal, so the Chusuqama cultivate a weakened form that can grant insight and pilot the body without killing it. This is primarily used by shamans for fortune telling, but occasionally by others for specific rituals. Most notably the coming of age ceremony where a young one consumes the fungus and goes on a vision quest to the sacred mountain in the deepest part of the jungle. 
 
 Chusuqama religion revolves heavily around the ancestors. It is believed that when you die, your body returns to the earth to feed new life while your soul becomes one of the star snakes protecting the world from the hungering Void. The markings on the feathers are very similar to the stars and this is seen as a representation of an individual’s history and destiny. Each child born is brought to the elder and shaman of the tribe who read the markings and give the infant a long-winded name spelling out their purpose and fate. The parents choose a shortened version of this to be the child’s everyday name (generally one or two syllables).
+
+## Society & Customs
+
+## Relations

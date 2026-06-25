@@ -6,7 +6,7 @@ noteStatus:
 ---
 > [!infobox]
 > # `=this.file.name`
-> | Stat | Value |
+> | | |
 > |------|-------|
 > | Location | `=this.parentLocation` |
 > | Patron Deity | `=this.patronDeity` |

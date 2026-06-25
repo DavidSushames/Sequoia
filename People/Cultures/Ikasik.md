@@ -1,8 +1,16 @@
 ---
-tags:
-  - template/ethnicity
-parentLocation: "[[Keriu]]"
+parentLocation:
+continent:
+  - "[[Keriu]]"
+noteStatus:
 ---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+
+## Overview
 ```ad-Ethnicity-info
 title: Ikasik's breakdown
 
@@ -16,3 +24,7 @@ These guys store their memory in their hair. As long as they have their hair, th
 They do not have a written language. Nor do they need one, because they remember every story, every history they were told since they were born.
 
 Touching their hair to others (arm hair counts, dw) lets them do telepathy. They have this cool touching forearm thing so they can communicate in a blizzard.
+
+## Society & Customs
+
+## Relations

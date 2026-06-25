@@ -1,3 +1,18 @@
+---
+parentLocation:
+continent:
+  - "[[Keriu]]"
+leader:
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+> | Leader | `=this.leader` |
+
+## Overview
 Values: Freedom + Knowledge 
 Associations: Spring, Lichen, Metalworking. Ships, Murdering, Silver.
 
@@ -10,5 +25,8 @@ And then they whip out those teeny tiny spectacles to check the ledgers.
 
 High ranking Silverbrands are called Silvermanes, and either dip or braid their beards with silver.
 
-*"Let me make it simple for you. If you pay the yearly fee, your town gets to join as a Silverbrand Associate. That means you service our vessels, get a 5% discount on any trades with us, and you won't be considered a valid candidate for 'resource acquisition.'*
-*…Meaning we won't sack your town."*
+*"Let me make it simple for you. If you pay the yearly fee, your town gets to join as a Silverbrand Associate. That means you service our vessels, get a 5% discount on any trades with us, and you won't be considered a valid candidate for resource acquisition."*
+
+## Goals & Methods
+
+## Relations

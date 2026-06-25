@@ -1,3 +1,21 @@
+---
+parentLocation: Ashscale Islands
+continent:
+  - "[[Eiaro]]"
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+
+## Overview
+
+## Society & Customs
+
+## Relations
+
 ### History  
 Long ago the island was bathed in heat, the God of the Mountain gave his bounty freely to all that lived here, but one day the [[Phoenix]] came and the God of the Mountain fell silent forever. Now the Ashscales live in his absence, battling the chill of death to maintain life on the island. However, legends tell of the Son of the Mountain, who will one day rise up and pour out bountiful heat upon the island once again.
 

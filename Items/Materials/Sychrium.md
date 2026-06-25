@@ -1,2 +1,18 @@
+---
+origin:
+noteStatus: WIP
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Origin | `=this.origin` |
+> | Note Status | `=this.noteStatus` |
+
+## Description
 An [[-Exotic Materials|exotic]] mineral from the furthest edges of the [[Outer Edge]] where reality starts to break down. These rocks phase in and out of reality randomly. When refined this can be harnessed to a degree, allowing for things like invisibility or briefly passing through walls.
 If you could really get a good control of the phasing you could essentially make summonable items out of it, like a blade that doesn't exist until you summon it.
+
+## Properties & Uses
+
+## Obtaining

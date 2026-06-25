@@ -1,3 +1,20 @@
+---
+parentLocation:
+continent:
+  - "[[Leqan]]"
+  - "[[Aracata]]"
+leader:
+noteStatus: WIP
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+> | Leader | `=this.leader` |
+> | Demonym | Industrialist |
+
+## Overview
 Values: Pure Freedom.
 Associations: Metalworking, Water, Spring, Lizards, Lichen, Sun. 
 
@@ -16,3 +33,12 @@ Bit about how they bind spell-spirits into steel XX
 Bit about their beliefs XX
 
 
+
+
+## Government & Structure
+
+## Military
+
+## Relations
+
+## Economics

@@ -1,3 +1,15 @@
+---
+parentLocation:
+continent:
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+
+## Overview
 Values: Permanence + Nature
 Associations: Swearing oaths, Undead. Knives, Toads. 
 
@@ -6,3 +18,8 @@ There is safety in the trees, but the only food and resources are found in the w
 But the water is too dangerous to swim in, due to it being toxic, or full of undead, or too deep.
 So you gotta consume [[Revlis]], which makes your body forget that it's alive. Slows down your heart rate, lets you resist poisons, that kind of stuff. That lets you swim in the toxic waters.
 
+
+
+## Society & Customs
+
+## Relations

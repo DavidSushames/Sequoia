@@ -6,7 +6,7 @@ aliases:
 ---
 Exotic materials are materials with magical, divine, superreal, or subreal properties. They are often used for creating magic items.
 
-Scholars have tried to establish a naming convention, but often the common names take prevalence in everyday use. "Strikeshard" is used more often than "Fulgurite".
+Scholars have tried to establish a naming convention, but the common names tend to take prevalence in everyday use. "Strikeshard" is used more often than "Exofulgurite".
 
 | Material | Suffix      | Examples               |
 | -------- | ----------- | ---------------------- |

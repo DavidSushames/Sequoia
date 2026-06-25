@@ -5,7 +5,7 @@ noteStatus:
 ---
 > [!infobox]
 > # `=this.file.name`
-> | Stat | Value |
+> | | |
 > |------|-------|
 > | Location | `=this.parentLocation` |
 

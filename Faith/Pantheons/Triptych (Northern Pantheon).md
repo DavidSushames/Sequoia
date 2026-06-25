@@ -1,3 +1,16 @@
+---
+continent:
+gods: []
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Region | `=this.continent` |
+> | Gods | `=this.gods` |
+
+## Overview
 There be three goddesses who may or may not all be the same person.
 ## Maiden
 Represents growth, change, and Spring. Will bring stuff to life because it's cool.
@@ -5,3 +18,12 @@ Represents growth, change, and Spring. Will bring stuff to life because it's coo
 Represents protection, nurture, and healing. Not afraid to throw hands if her charges are threatened.
 ## Crone
 Represents knowledge, presence, and Winter. Will pull you in half with her long spindly fingers and deceptive strength.
+
+## Gods
+| Name | Domain | Notes |
+| ---- | ------ | ----- |
+|      |        |       |
+
+## Worship & Practices
+
+## Relations with Other Pantheons

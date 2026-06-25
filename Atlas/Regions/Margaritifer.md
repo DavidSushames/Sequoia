@@ -1,7 +1,8 @@
 ---
-parentLocation:
+parentLocation: "[[Arocca]]"
 continent:
-type:
+  - "[[Arocca]]"
+type: Island
 noteStatus:
 ---
 > [!infobox]
@@ -12,7 +13,9 @@ noteStatus:
 > | Type | `=this.type` |
 
 ## Overview
-
+Big island between [[Arocca]] and [[Kelen]]. 
+It has three massive lakes, Aram, Tana, and Sagan.
+Lake Aram has [[Takti Vlær]].
 ## Hazards & Features
 
 ## Inhabitants

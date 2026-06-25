@@ -239,4 +239,5 @@ Area away from any cities. Not particularly inhabitable, but there is acid. Magi
 No cities, just forts/outposts, and plenty of caravans. Trade routes.
 It's all in <Offworld>'s territory, and they won't stand for killing in their territory.
 <Foundry> was a Sovereign mining expedition, sent to scope out the acid. They have acid weaponry, because they've been here a while.
-<Sovereign> wants the acid, now they know it's hella profitable. 
+<Sovereign> wants the acid, now they know it's hella profitable.
+<Glitchers> are a group of... pirates? Nomads who can sorta phase in/out of existence. Probably due to exotics or subreal stuff. Very good at stealing stuff when you can hop through walls. 

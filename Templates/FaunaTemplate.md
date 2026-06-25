@@ -7,7 +7,7 @@ noteStatus:
 ---
 > [!infobox]
 > # `=this.file.name`
-> | Stat | Value |
+> | | |
 > |------|-------|
 > | Continent | `=this.continent` |
 > | Size | `=this.size` |

@@ -1,3 +1,4 @@
+This file exists so that all the files in the meta folder can be grouped together and look nice in the graph view
 [[-Slush Pile]]
 [[Ecosystem generator]]
 [[Names]]

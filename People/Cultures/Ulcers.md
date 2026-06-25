@@ -1,3 +1,15 @@
+---
+parentLocation:
+continent:
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+
+## Overview
 Ulcers have a love/hate relationship with [[The Struggle]]. They believe that the [[Gods]] do a big changeup every 500 years because they are bored, and want us to struggle more. If the Ulcers cause the struggle, then the oncoming disaster will surely be less awful. 
 
 The gods hate us. They want us to struggle and fight until we die. Why? They rely on us for faith, like giant bloody parasites. They could end all our problems in an instant, but they choose not to. Without hardship, without The Struggle, there's no reason for you pathetic creatures to reach out a hand for help. You pray to [[Triptych (Northern Pantheon)|The Maiden]] because if you don't, your crops will die and you'll starve. You honour [[The Balance (Southern Pantheon)|The Cycle]] because if you don't, the world will be thrown off balance and all will be doomed. It's like the man said, 'There are no atheists in a foxhole'. That's how it fucking works, there's always a threat. Why do you think they keep fucking things up every 500 years? They need you to struggle, to suffer. 
@@ -21,3 +33,7 @@ I am a person that has been honed into a weapon. You are a weapon pretending to 
 
 
 If something is easy, then it is not art," Helix declared vehemently. "Easy is what cripples and withers a body. Easy slows the mind. Easy leaves you weak with fear. Pray not for easy, pray to be so powerful that the impossible seems merely a struggle to you
+
+## Society & Customs
+
+## Relations

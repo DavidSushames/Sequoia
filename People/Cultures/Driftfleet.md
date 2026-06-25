@@ -1,3 +1,16 @@
+---
+parentLocation: Ocean
+continent:
+  - n/a
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Location | `=this.parentLocation` |
+
+## Overview
 Values: Freedom + Nature 
 Associations: Water, Sun. Knives, Octopuses.
 
@@ -15,4 +28,8 @@ If attacked, a driftfleet may chum the waters, attracting the beast to come and 
 
 Many driftfleets are named after their monster. Driftfleet Makara, Driftfleet Ekhidna, and Driftfleet Charybdis are to name but a few.
 
-The leader of the driftfleet is the Captain.
+The leader of the driftfleet is the Captain, their word is law.
+
+## Society & Customs
+
+## Relations

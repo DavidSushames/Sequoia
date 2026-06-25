@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d5fc60f09548920",
+            "id": "3d4988395667b9d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Materials/Strikeshard.md",
+                "file": "Factions/Nations/Arveian Imperium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strikeshard"
+              "title": "Arveian Imperium"
             }
           },
           {
-            "id": "1271b10fec27b576",
+            "id": "855a97a46a5d56c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/CultureTemplate.md",
+                "file": "Freedom-Permanence Faction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CultureTemplate"
+              "title": "Freedom-Permanence Faction"
             }
           }
         ],
@@ -68,7 +68,7 @@
       {
         "id": "e0cd264c32534d10",
         "type": "tabs",
-        "dimension": 71.71514543630893,
+        "dimension": 76.55935613682092,
         "children": [
           {
             "id": "5a1e5c373ef9e2f6",
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "antim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
       {
         "id": "e129fa97c0f4d998",
         "type": "tabs",
-        "dimension": 28.284854563691077,
+        "dimension": 23.440643863179076,
         "children": [
           {
             "id": "cf460e9364c47c26",
@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/CultureTemplate.md",
+                "file": "Freedom-Permanence Faction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of CultureTemplate"
+              "title": "Graph of Freedom-Permanence Faction"
             }
           }
         ]
@@ -334,45 +334,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1271b10fec27b576",
+  "active": "855a97a46a5d56c8",
   "lastOpenFiles": [
-    "zOldTemplates/ReligionTemplate.md",
-    "zOldTemplates/PeopleTemplate.md",
-    "zOldTemplates/MaterialTemplate.md",
-    "zOldTemplates/LanguageTemplate.md",
-    "zOldTemplates/GeographyTemplate.md",
-    "zOldTemplates/FactionTemplate.md",
-    "zOldTemplates/DeityTemplate.md",
-    "zOldTemplates/ItemTemplate.md",
-    "zOldTemplates/BuildingTemplate.md",
-    "zOldTemplates/CharacterTemplate.md",
-    "Templates/CharacterTemplate.md",
-    "Templates/CultureTemplate.md",
+    "People/People.md",
+    "People/Cultures/Wildermen.md",
+    "People/Cultures/Ulcers.md",
+    "People/Cultures/Mangrove Divers.md",
+    "People/Cultures/Kthum.md",
+    "People/Cultures/Ikasik.md",
+    "People/Cultures/Driftfleet.md",
+    "People/Cultures/Chusuqama.md",
+    "People/Cultures/Ashscales.md",
+    "People/Characters/The Gunman of Old County.md",
+    "People/Characters/Saint Rhea the Martyr.md",
+    "People/Characters/Cannibal.md",
+    "People/Characters/Arveiu.md",
+    "Items/Materials/Sychrium.md",
     "Items/Materials/Strikeshard.md",
-    "Templates/SiteTemplate.md",
-    "Templates/CosmologyTemplate.md",
-    "Templates/NationTemplate.md",
-    "Templates/ReligiousFactionTemplate.md",
-    "Templates/PantheonTemplate.md",
-    "Templates/ArtifactTemplate.md",
-    "Templates/MaterialTempalte.md",
-    "Church Space Program.md",
-    "Templates/OrganisationTemplate.md",
-    "zOldTemplates/CountryTemplate.md",
-    "Templates/TechnologyTemplate.md",
-    "Templates/HistoryTemplate.md",
-    "MagicTemplate.md",
+    "Items/Materials/Rockwool.md",
+    "Items/Materials/Revlis.md",
+    "Items/Materials/Hyfoei.md",
+    "Items/Materials/Excalium.md",
+    "Items/Materials/Calescite.md",
+    "Faith/Klo (god).md",
+    "Faith/Gods.md",
+    "Faith/Clergy Hierarchy.md",
+    "Faith/Angels.md",
+    "Faith/Pantheons/Triptych (Northern Pantheon).md",
+    "Faith/Pantheons/Totem Host (Western Pantheon).md",
     "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
     "zOldTemplates",
     "zNewTemplates",
     "zzAttachments/Pasted image 20250523220041.png",
-    "Untitled 1.base",
     "Untitled 6.base",
-    "Untitled 5.base",
     "Untitled 9.base",
-    "Untitled 8.base",
-    "Untitled 7.base",
-    "Untitled 4.base",
     "zzAttachments/Pasted image 20250430134230.png",
     "Pasted image 20260325213634.png",
     "Locations/Geography/Untitled.canvas",

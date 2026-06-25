@@ -4,7 +4,7 @@ noteStatus: WIP
 ---
 > [!infobox]
 > # `=this.file.name`
-> | Stat | Value |
+> | | |
 > |------|-------|
 > | Origin | `=this.origin` |
 > | Note Status | `=this.noteStatus` |

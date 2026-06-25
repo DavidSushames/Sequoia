@@ -7,7 +7,7 @@ noteStatus:
 ---
 > [!infobox]
 > # `=this.file.name`
-> | Stat | Value |
+> | | |
 > |------|-------|
 > | Controlled By | `=this.controlledBy` |
 > | Population | `=this.population`
