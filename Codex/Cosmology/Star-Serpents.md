@@ -1,3 +1,15 @@
+---
+parentLocation: Space
+type:
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Type | `=this.type` |
+
+## Overview
 Star-Serpents are immense, burning hot snakes that swim through space. 
 When people die, if they were good and followed a god, their souls go into the sun to be reborn as a Star-Snake. Many souls of the same culture go into a snake, allowing for mostly homogenous behaviours and colour schemes. If there's not enough souls of the same kind, they'll combine with whatever is available. These snakes come out kinda weird.
 
@@ -12,3 +24,7 @@ Cool scene where a snake swooshes past the [[Outer Edge]] of the dish, briefly s
 Also they sometimes shed their scales which fall onto the dish as Snakestones. People can absorb them to gain power, but this comes at a cost.
 
 Followers of the [[The Balance (Southern Pantheon)]] believe the Star Serpents to be reincarnations of their ancestors.
+
+## Effects
+
+## Known Unknowns

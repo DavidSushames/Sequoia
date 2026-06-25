@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freedom-Permanence Faction.md",
+                "file": "Codex/Cosmology/Star-Serpents.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Freedom-Permanence Faction"
+              "title": "Star-Serpents"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Freedom-Permanence Faction.md",
+                "file": "Codex/Cosmology/Star-Serpents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Freedom-Permanence Faction"
+              "title": "Graph of Star-Serpents"
             }
           }
         ]
@@ -336,32 +336,32 @@
   },
   "active": "855a97a46a5d56c8",
   "lastOpenFiles": [
+    "Codex/Cosmology/Sun.md",
+    "Codex/Cosmology/Star-Serpents.md",
+    "Codex/Cosmology/Sequoia.md",
+    "Codex/Cosmology/Reality shadows.md",
+    "Codex/Technology/Magipunk.md",
+    "Codex/Magic/Immortals.md",
+    "Bestiary/Monstrum/Void Souls.md",
+    "Bestiary/Monstrum/Phoenix.md",
+    "Codex/Cosmology/Underside.md",
+    "Codex/Cosmology/Upper Atmosphere.md",
+    "Codex/Cosmology/Outer Edge.md",
+    "Bestiary/Monstrum/Demons.md",
+    "Bestiary/Flora/Trees.md",
+    "Bestiary/Flora/The Red Woods.md",
+    "Bestiary/Flora/Khora.md",
+    "Bestiary/Flora/Ghost Trees.md",
+    "Bestiary/Flora/Driftpods.md",
+    "Bestiary/Fauna/Quickcoral.md",
+    "Bestiary/Fauna/Pearlbird.md",
+    "Bestiary/Fauna/Hepyr.md",
+    "Bestiary/Fauna/Animals.md",
+    "Freedom-Permanence Faction.md",
     "People/People.md",
     "People/Cultures/Wildermen.md",
     "People/Cultures/Ulcers.md",
     "People/Cultures/Mangrove Divers.md",
-    "People/Cultures/Kthum.md",
-    "People/Cultures/Ikasik.md",
-    "People/Cultures/Driftfleet.md",
-    "People/Cultures/Chusuqama.md",
-    "People/Cultures/Ashscales.md",
-    "People/Characters/The Gunman of Old County.md",
-    "People/Characters/Saint Rhea the Martyr.md",
-    "People/Characters/Cannibal.md",
-    "People/Characters/Arveiu.md",
-    "Items/Materials/Sychrium.md",
-    "Items/Materials/Strikeshard.md",
-    "Items/Materials/Rockwool.md",
-    "Items/Materials/Revlis.md",
-    "Items/Materials/Hyfoei.md",
-    "Items/Materials/Excalium.md",
-    "Items/Materials/Calescite.md",
-    "Faith/Klo (god).md",
-    "Faith/Gods.md",
-    "Faith/Clergy Hierarchy.md",
-    "Faith/Angels.md",
-    "Faith/Pantheons/Triptych (Northern Pantheon).md",
-    "Faith/Pantheons/Totem Host (Western Pantheon).md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 5.base",

@@ -1,3 +1,24 @@
+---
+continent:
+size:
+diet:
+domesticated:
+noteStatus:
+---
+> [!infobox]
+> # `=this.file.name`
+> | | |
+> |------|-------|
+> | Continent | `=this.continent` |
+> | Size | `=this.size` |
+> | Diet | `=this.diet` |
+>
+
+## Appearance
 Quickcorals are fast growing corals that rely on sunlight. It doesn't do very well beyond ~10 meters deep. It grows faster and is lighter than regular coral, but isn't as strong. It will grow on [[Driftpods]] if given the opportunity, protecting the pod's delicate lining. If the pod bursts, the coral will sink to the ocean floor as a hollow shell, forming a natural home for fish and perhaps Hepyr.
 
 [[Driftfleet|Driftfleets]] use quickcoral to attach driftpods together into one solid platform, upon which they build their cities. The coral is also a pretty decent building material, albeit having a curve due to the roundness of the pods. Hope you like round houses.
+
+## Behaviour
+
+## Habitat
