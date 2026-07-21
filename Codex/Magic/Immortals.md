@@ -25,4 +25,5 @@ Living Saint: Somehow came back from canonization. A god did it idk.
 [[Phoenix]]: Rebirths itself.
 
 
+Death mask: possesses anyone who puts it on.
 

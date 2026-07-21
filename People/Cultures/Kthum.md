@@ -16,7 +16,7 @@ Head: Immune to charm and fear.
 Torso: Limb trait - Throwing.
 Limbs: Throwing.
 
-So named after the sharp "K-" sound of their shoulder latching into place, followed by the "Thoom!" of a rock accelerarting and colliding witha distant target. 
+So named after the sharp "K-" sound of their shoulder latching into place, followed by the "Thoom!" of a rock accelerarting and colliding with a distant target. 
 ## Society & Customs
 Food: Fermented Fruits
 Arts: Flowing weaving and strings
@@ -37,4 +37,4 @@ They have an appointed magistrate, who they treat with respect for the most part
 ## Relations
 The Kthum are a vassal state of the Arveian Imperium, having been "quelled" by dragoons on horseback, and the onetime presence of [[Arveiu]]. In practice, they are some distance from the Imperial heartland, in the middle of a desert, so as long as they serve in the imperium's mandatory military service, and don't lynch the magistrate too often, it is rarely worth the cost of getting mounted troops through the desert to punish them further.
 
-They are traders and have boats and shi, due to river life. Their immunity to charm and fear makes them natural social butterflies.
+They are traders and have boats and such due to river life. Their immunity to charm and fear makes them natural social butterflies.

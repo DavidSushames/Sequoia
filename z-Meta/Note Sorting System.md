@@ -9,8 +9,8 @@
 **Monstrum:** Monsters of the world.
 ### Codex 
 **Cosmology:** The Sun, world, space, all the Big Picture stuff.
-**History:**
-**Magic:**
+**History:** Events of history.
+**Magic:** Magical effects, spells.
 **Technology:**
 ### Factions
 **Nations:** Factions with territories, governments, and citizens.
@@ -22,7 +22,7 @@
 **Artifacts:** Excalibur, The One Ring, famous shit.
 **Materials:** Raw materials, exotic/magic materials.
 ### People
-**Cultures:** Chinese, Indian, etc
+**Cultures:** Chinese, Indian, Scottish, etc
 **Characters:** Individual people. John the Blacksmith, Dragon-King Laeron, etc.
 
 

@@ -170,6 +170,8 @@ Cheminant
 Maisuria
 Audain
 Rhoden
+Gabor
+Martai
 
 steal names from the Ars Goetia, and from quadrangles of Mars/Venus/Mercury
 
